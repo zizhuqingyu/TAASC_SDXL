@@ -1,0 +1,1 @@
+{"id":"example_0001","caption":"a red cube to the left of a blue sphere","entities":[{"id":"e1","label":"cube"},{"id":"e2","label":"sphere"}],"attributes":[{"entity_id":"e1","value":"red"},{"entity_id":"e2","value":"blue"}],"relations":[{"subject_id":"e1","predicate":"to the left of","object_id":"e2"}]}
