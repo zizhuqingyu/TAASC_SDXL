@@ -1,0 +1,602 @@
+a green bench and a red car@@{"entities": ["bench", "car"], "attributes": [["bench", "green"], ["car", "red"]], "relations": []}
+a red bench and a green car@@{"entities": ["bench", "car"], "attributes": [["bench", "red"], ["car", "green"]], "relations": []}
+a green bench and a blue car@@{"entities": ["bench", "car"], "attributes": [["bench", "green"], ["car", "blue"]], "relations": []}
+a blue bench and a green car@@{"entities": ["bench", "car"], "attributes": [["bench", "blue"], ["car", "green"]], "relations": []}
+a red car and a gold clock@@{"entities": ["car", "clock"], "attributes": [["car", "red"], ["clock", "gold"]], "relations": []}
+a gold car and a red clock@@{"entities": ["car", "clock"], "attributes": [["car", "gold"], ["clock", "red"]], "relations": []}
+a red car and a brown clock@@{"entities": ["car", "clock"], "attributes": [["car", "red"], ["clock", "brown"]], "relations": []}
+a brown car and a red clock@@{"entities": ["car", "clock"], "attributes": [["car", "brown"], ["clock", "red"]], "relations": []}
+a red car and a brown elephant@@{"entities": ["car", "elephant"], "attributes": [["car", "red"], ["elephant", "brown"]], "relations": []}
+a brown car and a red elephant@@{"entities": ["car", "elephant"], "attributes": [["car", "brown"], ["elephant", "red"]], "relations": []}
+a red car and a pink elephant@@{"entities": ["car", "elephant"], "attributes": [["car", "red"], ["elephant", "pink"]], "relations": []}
+a pink car and a red elephant@@{"entities": ["car", "elephant"], "attributes": [["car", "pink"], ["elephant", "red"]], "relations": []}
+a green bench and a brown dog@@{"entities": ["bench", "dog"], "attributes": [["bench", "green"], ["dog", "brown"]], "relations": []}
+a brown bench and a green dog@@{"entities": ["bench", "dog"], "attributes": [["bench", "brown"], ["dog", "green"]], "relations": []}
+a green bench and a yellow dog@@{"entities": ["bench", "dog"], "attributes": [["bench", "green"], ["dog", "yellow"]], "relations": []}
+a yellow bench and a green dog@@{"entities": ["bench", "dog"], "attributes": [["bench", "yellow"], ["dog", "green"]], "relations": []}
+a brown dog and a blue horse@@{"entities": ["dog", "horse"], "attributes": [["dog", "brown"], ["horse", "blue"]], "relations": []}
+a blue dog and a brown horse@@{"entities": ["dog", "horse"], "attributes": [["dog", "blue"], ["horse", "brown"]], "relations": []}
+a yellow dog and a brown horse@@{"entities": ["dog", "horse"], "attributes": [["dog", "yellow"], ["horse", "brown"]], "relations": []}
+a brown dog and a yellow horse@@{"entities": ["dog", "horse"], "attributes": [["dog", "brown"], ["horse", "yellow"]], "relations": []}
+a red chair and a brown dog@@{"entities": ["chair", "dog"], "attributes": [["chair", "red"], ["dog", "brown"]], "relations": []}
+a brown chair and a red dog@@{"entities": ["chair", "dog"], "attributes": [["chair", "brown"], ["dog", "red"]], "relations": []}
+a red chair and a yellow dog@@{"entities": ["chair", "dog"], "attributes": [["chair", "red"], ["dog", "yellow"]], "relations": []}
+a yellow chair and a red dog@@{"entities": ["chair", "dog"], "attributes": [["chair", "yellow"], ["dog", "red"]], "relations": []}
+a green bench and a red train@@{"entities": ["bench", "train"], "attributes": [["bench", "green"], ["train", "red"]], "relations": []}
+a red bench and a green train@@{"entities": ["bench", "train"], "attributes": [["bench", "red"], ["train", "green"]], "relations": []}
+a green bench and a yellow train@@{"entities": ["bench", "train"], "attributes": [["bench", "green"], ["train", "yellow"]], "relations": []}
+a yellow bench and a green train@@{"entities": ["bench", "train"], "attributes": [["bench", "yellow"], ["train", "green"]], "relations": []}
+a green bench and a blue boat@@{"entities": ["bench", "boat"], "attributes": [["bench", "green"], ["boat", "blue"]], "relations": []}
+a blue bench and a green boat@@{"entities": ["bench", "boat"], "attributes": [["bench", "blue"], ["boat", "green"]], "relations": []}
+a green bench and a red boat@@{"entities": ["bench", "boat"], "attributes": [["bench", "green"], ["boat", "red"]], "relations": []}
+a red bench and a green boat@@{"entities": ["bench", "boat"], "attributes": [["bench", "red"], ["boat", "green"]], "relations": []}
+a gold clock and a blue vase@@{"entities": ["clock", "vase"], "attributes": [["clock", "gold"], ["vase", "blue"]], "relations": []}
+a blue clock and a gold vase@@{"entities": ["clock", "vase"], "attributes": [["clock", "blue"], ["vase", "gold"]], "relations": []}
+a gold clock and a green vase@@{"entities": ["clock", "vase"], "attributes": [["clock", "gold"], ["vase", "green"]], "relations": []}
+a green clock and a gold vase@@{"entities": ["clock", "vase"], "attributes": [["clock", "green"], ["vase", "gold"]], "relations": []}
+a red car and a brown cow@@{"entities": ["car", "cow"], "attributes": [["car", "red"], ["cow", "brown"]], "relations": []}
+a brown car and a red cow@@{"entities": ["car", "cow"], "attributes": [["car", "brown"], ["cow", "red"]], "relations": []}
+a blue car and a brown cow@@{"entities": ["car", "cow"], "attributes": [["car", "blue"], ["cow", "brown"]], "relations": []}
+a brown car and a blue cow@@{"entities": ["car", "cow"], "attributes": [["car", "brown"], ["cow", "blue"]], "relations": []}
+a red bird and a brown giraffe@@{"entities": ["bird", "giraffe"], "attributes": [["bird", "red"], ["giraffe", "brown"]], "relations": []}
+a brown bird and a red giraffe@@{"entities": ["bird", "giraffe"], "attributes": [["bird", "brown"], ["giraffe", "red"]], "relations": []}
+a brown cow and a pink sheep@@{"entities": ["cow", "sheep"], "attributes": [["cow", "brown"], ["sheep", "pink"]], "relations": []}
+a pink cow and a brown sheep@@{"entities": ["cow", "sheep"], "attributes": [["cow", "pink"], ["sheep", "brown"]], "relations": []}
+a red cow and a brown sheep@@{"entities": ["cow", "sheep"], "attributes": [["cow", "red"], ["sheep", "brown"]], "relations": []}
+a brown cow and a red sheep@@{"entities": ["cow", "sheep"], "attributes": [["cow", "brown"], ["sheep", "red"]], "relations": []}
+a blue boat and a red car@@{"entities": ["boat", "car"], "attributes": [["boat", "blue"], ["car", "red"]], "relations": []}
+a red boat and a blue car@@{"entities": ["boat", "car"], "attributes": [["boat", "red"], ["car", "blue"]], "relations": []}
+a red boat and a blue car@@{"entities": ["boat", "car"], "attributes": [["boat", "red"], ["car", "blue"]], "relations": []}
+a blue boat and a red car@@{"entities": ["boat", "car"], "attributes": [["boat", "blue"], ["car", "red"]], "relations": []}
+a blue bowl and a red cup@@{"entities": ["bowl", "cup"], "attributes": [["bowl", "blue"], ["cup", "red"]], "relations": []}
+a red bowl and a blue cup@@{"entities": ["bowl", "cup"], "attributes": [["bowl", "red"], ["cup", "blue"]], "relations": []}
+a red bowl and a blue cup@@{"entities": ["bowl", "cup"], "attributes": [["bowl", "red"], ["cup", "blue"]], "relations": []}
+a blue bowl and a red cup@@{"entities": ["bowl", "cup"], "attributes": [["bowl", "blue"], ["cup", "red"]], "relations": []}
+a green bench and a brown cat@@{"entities": ["bench", "cat"], "attributes": [["bench", "green"], ["cat", "brown"]], "relations": []}
+a brown bench and a green cat@@{"entities": ["bench", "cat"], "attributes": [["bench", "brown"], ["cat", "green"]], "relations": []}
+a green bench and a yellow cat@@{"entities": ["bench", "cat"], "attributes": [["bench", "green"], ["cat", "yellow"]], "relations": []}
+a yellow bench and a green cat@@{"entities": ["bench", "cat"], "attributes": [["bench", "yellow"], ["cat", "green"]], "relations": []}
+a red car and a brown sheep@@{"entities": ["car", "sheep"], "attributes": [["car", "red"], ["sheep", "brown"]], "relations": []}
+a brown car and a red sheep@@{"entities": ["car", "sheep"], "attributes": [["car", "brown"], ["sheep", "red"]], "relations": []}
+a red car and a pink sheep@@{"entities": ["car", "sheep"], "attributes": [["car", "red"], ["sheep", "pink"]], "relations": []}
+a pink car and a red sheep@@{"entities": ["car", "sheep"], "attributes": [["car", "pink"], ["sheep", "red"]], "relations": []}
+a brown cat and a yellow dog@@{"entities": ["cat", "dog"], "attributes": [["cat", "brown"], ["dog", "yellow"]], "relations": []}
+a yellow cat and a brown dog@@{"entities": ["cat", "dog"], "attributes": [["cat", "yellow"], ["dog", "brown"]], "relations": []}
+a yellow cat and a brown dog@@{"entities": ["cat", "dog"], "attributes": [["cat", "yellow"], ["dog", "brown"]], "relations": []}
+a brown cat and a yellow dog@@{"entities": ["cat", "dog"], "attributes": [["cat", "brown"], ["dog", "yellow"]], "relations": []}
+a blue bowl and a brown cat@@{"entities": ["bowl", "cat"], "attributes": [["bowl", "blue"], ["cat", "brown"]], "relations": []}
+a brown bowl and a blue cat@@{"entities": ["bowl", "cat"], "attributes": [["bowl", "brown"], ["cat", "blue"]], "relations": []}
+a blue bowl and a yellow cat@@{"entities": ["bowl", "cat"], "attributes": [["bowl", "blue"], ["cat", "yellow"]], "relations": []}
+a yellow bowl and a blue cat@@{"entities": ["bowl", "cat"], "attributes": [["bowl", "yellow"], ["cat", "blue"]], "relations": []}
+a brown cow and a blue horse@@{"entities": ["cow", "horse"], "attributes": [["cow", "brown"], ["horse", "blue"]], "relations": []}
+a blue cow and a brown horse@@{"entities": ["cow", "horse"], "attributes": [["cow", "blue"], ["horse", "brown"]], "relations": []}
+a red cow and a brown horse@@{"entities": ["cow", "horse"], "attributes": [["cow", "red"], ["horse", "brown"]], "relations": []}
+a brown cow and a red horse@@{"entities": ["cow", "horse"], "attributes": [["cow", "brown"], ["horse", "red"]], "relations": []}
+a red book and a gold clock@@{"entities": ["book", "clock"], "attributes": [["book", "red"], ["clock", "gold"]], "relations": []}
+a gold book and a red clock@@{"entities": ["book", "clock"], "attributes": [["book", "gold"], ["clock", "red"]], "relations": []}
+a red book and a brown clock@@{"entities": ["book", "clock"], "attributes": [["book", "red"], ["clock", "brown"]], "relations": []}
+a brown book and a red clock@@{"entities": ["book", "clock"], "attributes": [["book", "brown"], ["clock", "red"]], "relations": []}
+a red chair and a gold clock@@{"entities": ["chair", "clock"], "attributes": [["chair", "red"], ["clock", "gold"]], "relations": []}
+a gold chair and a red clock@@{"entities": ["chair", "clock"], "attributes": [["chair", "gold"], ["clock", "red"]], "relations": []}
+a red chair and a brown clock@@{"entities": ["chair", "clock"], "attributes": [["chair", "red"], ["clock", "brown"]], "relations": []}
+a brown chair and a red clock@@{"entities": ["chair", "clock"], "attributes": [["chair", "brown"], ["clock", "red"]], "relations": []}
+a brown bird and a pink elephant@@{"entities": ["bird", "elephant"], "attributes": [["bird", "brown"], ["elephant", "pink"]], "relations": []}
+a pink bird and a brown elephant@@{"entities": ["bird", "elephant"], "attributes": [["bird", "pink"], ["elephant", "brown"]], "relations": []}
+a red bird and a brown elephant@@{"entities": ["bird", "elephant"], "attributes": [["bird", "red"], ["elephant", "brown"]], "relations": []}
+a brown bird and a red elephant@@{"entities": ["bird", "elephant"], "attributes": [["bird", "brown"], ["elephant", "red"]], "relations": []}
+a red car and a brown cat@@{"entities": ["car", "cat"], "attributes": [["car", "red"], ["cat", "brown"]], "relations": []}
+a brown car and a red cat@@{"entities": ["car", "cat"], "attributes": [["car", "brown"], ["cat", "red"]], "relations": []}
+a red car and a yellow cat@@{"entities": ["car", "cat"], "attributes": [["car", "red"], ["cat", "yellow"]], "relations": []}
+a yellow car and a red cat@@{"entities": ["car", "cat"], "attributes": [["car", "yellow"], ["cat", "red"]], "relations": []}
+a brown cow and a yellow dog@@{"entities": ["cow", "dog"], "attributes": [["cow", "brown"], ["dog", "yellow"]], "relations": []}
+a yellow cow and a brown dog@@{"entities": ["cow", "dog"], "attributes": [["cow", "yellow"], ["dog", "brown"]], "relations": []}
+a red cow and a brown dog@@{"entities": ["cow", "dog"], "attributes": [["cow", "red"], ["dog", "brown"]], "relations": []}
+a brown cow and a red dog@@{"entities": ["cow", "dog"], "attributes": [["cow", "brown"], ["dog", "red"]], "relations": []}
+a green bench and a brown bird@@{"entities": ["bench", "bird"], "attributes": [["bench", "green"], ["bird", "brown"]], "relations": []}
+a brown bench and a green bird@@{"entities": ["bench", "bird"], "attributes": [["bench", "brown"], ["bird", "green"]], "relations": []}
+a green bench and a red bird@@{"entities": ["bench", "bird"], "attributes": [["bench", "green"], ["bird", "red"]], "relations": []}
+a red bench and a green bird@@{"entities": ["bench", "bird"], "attributes": [["bench", "red"], ["bird", "green"]], "relations": []}
+a green bench and a red book@@{"entities": ["bench", "book"], "attributes": [["bench", "green"], ["book", "red"]], "relations": []}
+a red bench and a green book@@{"entities": ["bench", "book"], "attributes": [["bench", "red"], ["book", "green"]], "relations": []}
+a green bench and a blue book@@{"entities": ["bench", "book"], "attributes": [["bench", "green"], ["book", "blue"]], "relations": []}
+a blue bench and a green book@@{"entities": ["bench", "book"], "attributes": [["bench", "blue"], ["book", "green"]], "relations": []}
+a brown bird and a pink sheep@@{"entities": ["bird", "sheep"], "attributes": [["bird", "brown"], ["sheep", "pink"]], "relations": []}
+a pink bird and a brown sheep@@{"entities": ["bird", "sheep"], "attributes": [["bird", "pink"], ["sheep", "brown"]], "relations": []}
+a red bird and a brown sheep@@{"entities": ["bird", "sheep"], "attributes": [["bird", "red"], ["sheep", "brown"]], "relations": []}
+a brown bird and a red sheep@@{"entities": ["bird", "sheep"], "attributes": [["bird", "brown"], ["sheep", "red"]], "relations": []}
+a green banana and a brown bird@@{"entities": ["banana", "bird"], "attributes": [["banana", "green"], ["bird", "brown"]], "relations": []}
+a brown banana and a green bird@@{"entities": ["banana", "bird"], "attributes": [["banana", "brown"], ["bird", "green"]], "relations": []}
+a green banana and a red bird@@{"entities": ["banana", "bird"], "attributes": [["banana", "green"], ["bird", "red"]], "relations": []}
+a red banana and a green bird@@{"entities": ["banana", "bird"], "attributes": [["banana", "red"], ["bird", "green"]], "relations": []}
+a blue backpack and a brown cat@@{"entities": ["backpack", "cat"], "attributes": [["backpack", "blue"], ["cat", "brown"]], "relations": []}
+a brown backpack and a blue cat@@{"entities": ["backpack", "cat"], "attributes": [["backpack", "brown"], ["cat", "blue"]], "relations": []}
+a blue backpack and a yellow cat@@{"entities": ["backpack", "cat"], "attributes": [["backpack", "blue"], ["cat", "yellow"]], "relations": []}
+a yellow backpack and a blue cat@@{"entities": ["backpack", "cat"], "attributes": [["backpack", "yellow"], ["cat", "blue"]], "relations": []}
+a brown dog and a pink sheep@@{"entities": ["dog", "sheep"], "attributes": [["dog", "brown"], ["sheep", "pink"]], "relations": []}
+a pink dog and a brown sheep@@{"entities": ["dog", "sheep"], "attributes": [["dog", "pink"], ["sheep", "brown"]], "relations": []}
+a yellow dog and a brown sheep@@{"entities": ["dog", "sheep"], "attributes": [["dog", "yellow"], ["sheep", "brown"]], "relations": []}
+a brown dog and a yellow sheep@@{"entities": ["dog", "sheep"], "attributes": [["dog", "brown"], ["sheep", "yellow"]], "relations": []}
+a red car and a brown horse@@{"entities": ["car", "horse"], "attributes": [["car", "red"], ["horse", "brown"]], "relations": []}
+a brown car and a red horse@@{"entities": ["car", "horse"], "attributes": [["car", "brown"], ["horse", "red"]], "relations": []}
+a red car and a blue horse@@{"entities": ["car", "horse"], "attributes": [["car", "red"], ["horse", "blue"]], "relations": []}
+a blue car and a red horse@@{"entities": ["car", "horse"], "attributes": [["car", "blue"], ["horse", "red"]], "relations": []}
+a red chair and a blue vase@@{"entities": ["chair", "vase"], "attributes": [["chair", "red"], ["vase", "blue"]], "relations": []}
+a blue chair and a red vase@@{"entities": ["chair", "vase"], "attributes": [["chair", "blue"], ["vase", "red"]], "relations": []}
+a red chair and a green vase@@{"entities": ["chair", "vase"], "attributes": [["chair", "red"], ["vase", "green"]], "relations": []}
+a green chair and a red vase@@{"entities": ["chair", "vase"], "attributes": [["chair", "green"], ["vase", "red"]], "relations": []}
+a green apple and a brown bird@@{"entities": ["apple", "bird"], "attributes": [["apple", "green"], ["bird", "brown"]], "relations": []}
+a brown apple and a green bird@@{"entities": ["apple", "bird"], "attributes": [["apple", "brown"], ["bird", "green"]], "relations": []}
+a green apple and a red bird@@{"entities": ["apple", "bird"], "attributes": [["apple", "green"], ["bird", "red"]], "relations": []}
+a red apple and a green bird@@{"entities": ["apple", "bird"], "attributes": [["apple", "red"], ["bird", "green"]], "relations": []}
+a blue bowl and a green vase@@{"entities": ["bowl", "vase"], "attributes": [["bowl", "blue"], ["vase", "green"]], "relations": []}
+a green bowl and a blue vase@@{"entities": ["bowl", "vase"], "attributes": [["bowl", "green"], ["vase", "blue"]], "relations": []}
+a red bowl and a blue vase@@{"entities": ["bowl", "vase"], "attributes": [["bowl", "red"], ["vase", "blue"]], "relations": []}
+a blue bowl and a red vase@@{"entities": ["bowl", "vase"], "attributes": [["bowl", "blue"], ["vase", "red"]], "relations": []}
+a blue backpack and a red suitcase@@{"entities": ["backpack", "suitcase"], "attributes": [["backpack", "blue"], ["suitcase", "red"]], "relations": []}
+a red backpack and a blue suitcase@@{"entities": ["backpack", "suitcase"], "attributes": [["backpack", "red"], ["suitcase", "blue"]], "relations": []}
+a red backpack and a blue suitcase@@{"entities": ["backpack", "suitcase"], "attributes": [["backpack", "red"], ["suitcase", "blue"]], "relations": []}
+a blue backpack and a red suitcase@@{"entities": ["backpack", "suitcase"], "attributes": [["backpack", "blue"], ["suitcase", "red"]], "relations": []}
+a brown bird and a gold clock@@{"entities": ["bird", "clock"], "attributes": [["bird", "brown"], ["clock", "gold"]], "relations": []}
+a gold bird and a brown clock@@{"entities": ["bird", "clock"], "attributes": [["bird", "gold"], ["clock", "brown"]], "relations": []}
+a red bird and a gold clock@@{"entities": ["bird", "clock"], "attributes": [["bird", "red"], ["clock", "gold"]], "relations": []}
+a gold bird and a red clock@@{"entities": ["bird", "clock"], "attributes": [["bird", "gold"], ["clock", "red"]], "relations": []}
+a brown bird and a red cow@@{"entities": ["bird", "cow"], "attributes": [["bird", "brown"], ["cow", "red"]], "relations": []}
+a red bird and a brown cow@@{"entities": ["bird", "cow"], "attributes": [["bird", "red"], ["cow", "brown"]], "relations": []}
+a red bird and a brown cow@@{"entities": ["bird", "cow"], "attributes": [["bird", "red"], ["cow", "brown"]], "relations": []}
+a brown bird and a red cow@@{"entities": ["bird", "cow"], "attributes": [["bird", "brown"], ["cow", "red"]], "relations": []}
+a green bench and a red chair@@{"entities": ["bench", "chair"], "attributes": [["bench", "green"], ["chair", "red"]], "relations": []}
+a red bench and a green chair@@{"entities": ["bench", "chair"], "attributes": [["bench", "red"], ["chair", "green"]], "relations": []}
+a green bench and a blue chair@@{"entities": ["bench", "chair"], "attributes": [["bench", "green"], ["chair", "blue"]], "relations": []}
+a blue bench and a green chair@@{"entities": ["bench", "chair"], "attributes": [["bench", "blue"], ["chair", "green"]], "relations": []}
+a blue boat and a gold clock@@{"entities": ["boat", "clock"], "attributes": [["boat", "blue"], ["clock", "gold"]], "relations": []}
+a gold boat and a blue clock@@{"entities": ["boat", "clock"], "attributes": [["boat", "gold"], ["clock", "blue"]], "relations": []}
+a blue boat and a brown clock@@{"entities": ["boat", "clock"], "attributes": [["boat", "blue"], ["clock", "brown"]], "relations": []}
+a brown boat and a blue clock@@{"entities": ["boat", "clock"], "attributes": [["boat", "brown"], ["clock", "blue"]], "relations": []}
+a brown horse and a pink sheep@@{"entities": ["horse", "sheep"], "attributes": [["horse", "brown"], ["sheep", "pink"]], "relations": []}
+a pink horse and a brown sheep@@{"entities": ["horse", "sheep"], "attributes": [["horse", "pink"], ["sheep", "brown"]], "relations": []}
+a blue horse and a brown sheep@@{"entities": ["horse", "sheep"], "attributes": [["horse", "blue"], ["sheep", "brown"]], "relations": []}
+a brown horse and a blue sheep@@{"entities": ["horse", "sheep"], "attributes": [["horse", "brown"], ["sheep", "blue"]], "relations": []}
+a brown bird and a blue bowl@@{"entities": ["bird", "bowl"], "attributes": [["bird", "brown"], ["bowl", "blue"]], "relations": []}
+a blue bird and a brown bowl@@{"entities": ["bird", "bowl"], "attributes": [["bird", "blue"], ["bowl", "brown"]], "relations": []}
+a brown bird and a red bowl@@{"entities": ["bird", "bowl"], "attributes": [["bird", "brown"], ["bowl", "red"]], "relations": []}
+a red bird and a brown bowl@@{"entities": ["bird", "bowl"], "attributes": [["bird", "red"], ["bowl", "brown"]], "relations": []}
+a blue boat and a brown cow@@{"entities": ["boat", "cow"], "attributes": [["boat", "blue"], ["cow", "brown"]], "relations": []}
+a brown boat and a blue cow@@{"entities": ["boat", "cow"], "attributes": [["boat", "brown"], ["cow", "blue"]], "relations": []}
+a blue boat and a red cow@@{"entities": ["boat", "cow"], "attributes": [["boat", "blue"], ["cow", "red"]], "relations": []}
+a red boat and a blue cow@@{"entities": ["boat", "cow"], "attributes": [["boat", "red"], ["cow", "blue"]], "relations": []}
+a red book and a brown cat@@{"entities": ["book", "cat"], "attributes": [["book", "red"], ["cat", "brown"]], "relations": []}
+a brown book and a red cat@@{"entities": ["book", "cat"], "attributes": [["book", "brown"], ["cat", "red"]], "relations": []}
+a red book and a yellow cat@@{"entities": ["book", "cat"], "attributes": [["book", "red"], ["cat", "yellow"]], "relations": []}
+a yellow book and a red cat@@{"entities": ["book", "cat"], "attributes": [["book", "yellow"], ["cat", "red"]], "relations": []}
+a green apple and a yellow banana@@{"entities": ["apple", "banana"], "attributes": [["apple", "green"], ["banana", "yellow"]], "relations": []}
+a yellow apple and a green banana@@{"entities": ["apple", "banana"], "attributes": [["apple", "yellow"], ["banana", "green"]], "relations": []}
+a red apple and a green banana@@{"entities": ["apple", "banana"], "attributes": [["apple", "red"], ["banana", "green"]], "relations": []}
+a green apple and a red banana@@{"entities": ["apple", "banana"], "attributes": [["apple", "green"], ["banana", "red"]], "relations": []}
+a brown cat and a pink sheep@@{"entities": ["cat", "sheep"], "attributes": [["cat", "brown"], ["sheep", "pink"]], "relations": []}
+a pink cat and a brown sheep@@{"entities": ["cat", "sheep"], "attributes": [["cat", "pink"], ["sheep", "brown"]], "relations": []}
+a yellow cat and a brown sheep@@{"entities": ["cat", "sheep"], "attributes": [["cat", "yellow"], ["sheep", "brown"]], "relations": []}
+a brown cat and a yellow sheep@@{"entities": ["cat", "sheep"], "attributes": [["cat", "brown"], ["sheep", "yellow"]], "relations": []}
+a brown cat and a red chair@@{"entities": ["cat", "chair"], "attributes": [["cat", "brown"], ["chair", "red"]], "relations": []}
+a red cat and a brown chair@@{"entities": ["cat", "chair"], "attributes": [["cat", "red"], ["chair", "brown"]], "relations": []}
+a brown cat and a blue chair@@{"entities": ["cat", "chair"], "attributes": [["cat", "brown"], ["chair", "blue"]], "relations": []}
+a blue cat and a brown chair@@{"entities": ["cat", "chair"], "attributes": [["cat", "blue"], ["chair", "brown"]], "relations": []}
+a brown bird and a red car@@{"entities": ["bird", "car"], "attributes": [["bird", "brown"], ["car", "red"]], "relations": []}
+a red bird and a brown car@@{"entities": ["bird", "car"], "attributes": [["bird", "red"], ["car", "brown"]], "relations": []}
+a brown bird and a blue car@@{"entities": ["bird", "car"], "attributes": [["bird", "brown"], ["car", "blue"]], "relations": []}
+a blue bird and a brown car@@{"entities": ["bird", "car"], "attributes": [["bird", "blue"], ["car", "brown"]], "relations": []}
+a brown cat and a blue cup@@{"entities": ["cat", "cup"], "attributes": [["cat", "brown"], ["cup", "blue"]], "relations": []}
+a blue cat and a brown cup@@{"entities": ["cat", "cup"], "attributes": [["cat", "blue"], ["cup", "brown"]], "relations": []}
+a brown cat and a red cup@@{"entities": ["cat", "cup"], "attributes": [["cat", "brown"], ["cup", "red"]], "relations": []}
+a red cat and a brown cup@@{"entities": ["cat", "cup"], "attributes": [["cat", "red"], ["cup", "brown"]], "relations": []}
+a blue cup and a green vase@@{"entities": ["cup", "vase"], "attributes": [["cup", "blue"], ["vase", "green"]], "relations": []}
+a green cup and a blue vase@@{"entities": ["cup", "vase"], "attributes": [["cup", "green"], ["vase", "blue"]], "relations": []}
+a red cup and a blue vase@@{"entities": ["cup", "vase"], "attributes": [["cup", "red"], ["vase", "blue"]], "relations": []}
+a blue cup and a red vase@@{"entities": ["cup", "vase"], "attributes": [["cup", "blue"], ["vase", "red"]], "relations": []}
+a pink elephant and a brown giraffe@@{"entities": ["elephant", "giraffe"], "attributes": [["elephant", "pink"], ["giraffe", "brown"]], "relations": []}
+a brown elephant and a pink giraffe@@{"entities": ["elephant", "giraffe"], "attributes": [["elephant", "brown"], ["giraffe", "pink"]], "relations": []}
+a gold clock and a red train@@{"entities": ["clock", "train"], "attributes": [["clock", "gold"], ["train", "red"]], "relations": []}
+a red clock and a gold train@@{"entities": ["clock", "train"], "attributes": [["clock", "red"], ["train", "gold"]], "relations": []}
+a gold clock and a yellow train@@{"entities": ["clock", "train"], "attributes": [["clock", "gold"], ["train", "yellow"]], "relations": []}
+a yellow clock and a gold train@@{"entities": ["clock", "train"], "attributes": [["clock", "yellow"], ["train", "gold"]], "relations": []}
+a green bench and a gold clock@@{"entities": ["bench", "clock"], "attributes": [["bench", "green"], ["clock", "gold"]], "relations": []}
+a gold bench and a green clock@@{"entities": ["bench", "clock"], "attributes": [["bench", "gold"], ["clock", "green"]], "relations": []}
+a green bench and a brown clock@@{"entities": ["bench", "clock"], "attributes": [["bench", "green"], ["clock", "brown"]], "relations": []}
+a brown bench and a green clock@@{"entities": ["bench", "clock"], "attributes": [["bench", "brown"], ["clock", "green"]], "relations": []}
+a brown bird and a blue boat@@{"entities": ["bird", "boat"], "attributes": [["bird", "brown"], ["boat", "blue"]], "relations": []}
+a blue bird and a brown boat@@{"entities": ["bird", "boat"], "attributes": [["bird", "blue"], ["boat", "brown"]], "relations": []}
+a brown bird and a red boat@@{"entities": ["bird", "boat"], "attributes": [["bird", "brown"], ["boat", "red"]], "relations": []}
+a red bird and a brown boat@@{"entities": ["bird", "boat"], "attributes": [["bird", "red"], ["boat", "brown"]], "relations": []}
+a red book and a blue suitcase@@{"entities": ["book", "suitcase"], "attributes": [["book", "red"], ["suitcase", "blue"]], "relations": []}
+a blue book and a red suitcase@@{"entities": ["book", "suitcase"], "attributes": [["book", "blue"], ["suitcase", "red"]], "relations": []}
+a blue book and a red suitcase@@{"entities": ["book", "suitcase"], "attributes": [["book", "blue"], ["suitcase", "red"]], "relations": []}
+a red book and a blue suitcase@@{"entities": ["book", "suitcase"], "attributes": [["book", "red"], ["suitcase", "blue"]], "relations": []}
+a green banana and a blue cake@@{"entities": ["banana", "cake"], "attributes": [["banana", "green"], ["cake", "blue"]], "relations": []}
+a blue banana and a green cake@@{"entities": ["banana", "cake"], "attributes": [["banana", "blue"], ["cake", "green"]], "relations": []}
+a green banana and a pink cake@@{"entities": ["banana", "cake"], "attributes": [["banana", "green"], ["cake", "pink"]], "relations": []}
+a pink banana and a green cake@@{"entities": ["banana", "cake"], "attributes": [["banana", "pink"], ["cake", "green"]], "relations": []}
+a red car and a brown giraffe@@{"entities": ["car", "giraffe"], "attributes": [["car", "red"], ["giraffe", "brown"]], "relations": []}
+a brown car and a red giraffe@@{"entities": ["car", "giraffe"], "attributes": [["car", "brown"], ["giraffe", "red"]], "relations": []}
+a blue car and a brown giraffe@@{"entities": ["car", "giraffe"], "attributes": [["car", "blue"], ["giraffe", "brown"]], "relations": []}
+a brown car and a blue giraffe@@{"entities": ["car", "giraffe"], "attributes": [["car", "brown"], ["giraffe", "blue"]], "relations": []}
+a blue boat and a brown dog@@{"entities": ["boat", "dog"], "attributes": [["boat", "blue"], ["dog", "brown"]], "relations": []}
+a brown boat and a blue dog@@{"entities": ["boat", "dog"], "attributes": [["boat", "brown"], ["dog", "blue"]], "relations": []}
+a blue boat and a yellow dog@@{"entities": ["boat", "dog"], "attributes": [["boat", "blue"], ["dog", "yellow"]], "relations": []}
+a yellow boat and a blue dog@@{"entities": ["boat", "dog"], "attributes": [["boat", "yellow"], ["dog", "blue"]], "relations": []}
+a brown cat and a red suitcase@@{"entities": ["cat", "suitcase"], "attributes": [["cat", "brown"], ["suitcase", "red"]], "relations": []}
+a red cat and a brown suitcase@@{"entities": ["cat", "suitcase"], "attributes": [["cat", "red"], ["suitcase", "brown"]], "relations": []}
+a brown cat and a blue suitcase@@{"entities": ["cat", "suitcase"], "attributes": [["cat", "brown"], ["suitcase", "blue"]], "relations": []}
+a blue cat and a brown suitcase@@{"entities": ["cat", "suitcase"], "attributes": [["cat", "blue"], ["suitcase", "brown"]], "relations": []}
+a green banana and a blue bowl@@{"entities": ["banana", "bowl"], "attributes": [["banana", "green"], ["bowl", "blue"]], "relations": []}
+a blue banana and a green bowl@@{"entities": ["banana", "bowl"], "attributes": [["banana", "blue"], ["bowl", "green"]], "relations": []}
+a green banana and a red bowl@@{"entities": ["banana", "bowl"], "attributes": [["banana", "green"], ["bowl", "red"]], "relations": []}
+a red banana and a green bowl@@{"entities": ["banana", "bowl"], "attributes": [["banana", "red"], ["bowl", "green"]], "relations": []}
+a green apple and a blue bowl@@{"entities": ["apple", "bowl"], "attributes": [["apple", "green"], ["bowl", "blue"]], "relations": []}
+a blue apple and a green bowl@@{"entities": ["apple", "bowl"], "attributes": [["apple", "blue"], ["bowl", "green"]], "relations": []}
+a green apple and a red bowl@@{"entities": ["apple", "bowl"], "attributes": [["apple", "green"], ["bowl", "red"]], "relations": []}
+a red apple and a green bowl@@{"entities": ["apple", "bowl"], "attributes": [["apple", "red"], ["bowl", "green"]], "relations": []}
+a brown bird and a red chair@@{"entities": ["bird", "chair"], "attributes": [["bird", "brown"], ["chair", "red"]], "relations": []}
+a red bird and a brown chair@@{"entities": ["bird", "chair"], "attributes": [["bird", "red"], ["chair", "brown"]], "relations": []}
+a brown bird and a blue chair@@{"entities": ["bird", "chair"], "attributes": [["bird", "brown"], ["chair", "blue"]], "relations": []}
+a blue bird and a brown chair@@{"entities": ["bird", "chair"], "attributes": [["bird", "blue"], ["chair", "brown"]], "relations": []}
+a brown dog and a red suitcase@@{"entities": ["dog", "suitcase"], "attributes": [["dog", "brown"], ["suitcase", "red"]], "relations": []}
+a red dog and a brown suitcase@@{"entities": ["dog", "suitcase"], "attributes": [["dog", "red"], ["suitcase", "brown"]], "relations": []}
+a brown dog and a blue suitcase@@{"entities": ["dog", "suitcase"], "attributes": [["dog", "brown"], ["suitcase", "blue"]], "relations": []}
+a blue dog and a brown suitcase@@{"entities": ["dog", "suitcase"], "attributes": [["dog", "blue"], ["suitcase", "brown"]], "relations": []}
+a brown bird and a yellow cat@@{"entities": ["bird", "cat"], "attributes": [["bird", "brown"], ["cat", "yellow"]], "relations": []}
+a yellow bird and a brown cat@@{"entities": ["bird", "cat"], "attributes": [["bird", "yellow"], ["cat", "brown"]], "relations": []}
+a red bird and a brown cat@@{"entities": ["bird", "cat"], "attributes": [["bird", "red"], ["cat", "brown"]], "relations": []}
+a brown bird and a red cat@@{"entities": ["bird", "cat"], "attributes": [["bird", "brown"], ["cat", "red"]], "relations": []}
+a red car and a yellow train@@{"entities": ["car", "train"], "attributes": [["car", "red"], ["train", "yellow"]], "relations": []}
+a yellow car and a red train@@{"entities": ["car", "train"], "attributes": [["car", "yellow"], ["train", "red"]], "relations": []}
+a blue car and a red train@@{"entities": ["car", "train"], "attributes": [["car", "blue"], ["train", "red"]], "relations": []}
+a red car and a blue train@@{"entities": ["car", "train"], "attributes": [["car", "red"], ["train", "blue"]], "relations": []}
+a red car and a brown dog@@{"entities": ["car", "dog"], "attributes": [["car", "red"], ["dog", "brown"]], "relations": []}
+a brown car and a red dog@@{"entities": ["car", "dog"], "attributes": [["car", "brown"], ["dog", "red"]], "relations": []}
+a red car and a yellow dog@@{"entities": ["car", "dog"], "attributes": [["car", "red"], ["dog", "yellow"]], "relations": []}
+a yellow car and a red dog@@{"entities": ["car", "dog"], "attributes": [["car", "yellow"], ["dog", "red"]], "relations": []}
+a red book and a brown dog@@{"entities": ["book", "dog"], "attributes": [["book", "red"], ["dog", "brown"]], "relations": []}
+a brown book and a red dog@@{"entities": ["book", "dog"], "attributes": [["book", "brown"], ["dog", "red"]], "relations": []}
+a red book and a yellow dog@@{"entities": ["book", "dog"], "attributes": [["book", "red"], ["dog", "yellow"]], "relations": []}
+a yellow book and a red dog@@{"entities": ["book", "dog"], "attributes": [["book", "yellow"], ["dog", "red"]], "relations": []}
+a red car and a blue suitcase@@{"entities": ["car", "suitcase"], "attributes": [["car", "red"], ["suitcase", "blue"]], "relations": []}
+a blue car and a red suitcase@@{"entities": ["car", "suitcase"], "attributes": [["car", "blue"], ["suitcase", "red"]], "relations": []}
+a blue car and a red suitcase@@{"entities": ["car", "suitcase"], "attributes": [["car", "blue"], ["suitcase", "red"]], "relations": []}
+a red car and a blue suitcase@@{"entities": ["car", "suitcase"], "attributes": [["car", "red"], ["suitcase", "blue"]], "relations": []}
+a red chair and a brown giraffe@@{"entities": ["chair", "giraffe"], "attributes": [["chair", "red"], ["giraffe", "brown"]], "relations": []}
+a brown chair and a red giraffe@@{"entities": ["chair", "giraffe"], "attributes": [["chair", "brown"], ["giraffe", "red"]], "relations": []}
+a green banana and a brown sheep@@{"entities": ["banana", "sheep"], "attributes": [["banana", "green"], ["sheep", "brown"]], "relations": []}
+a brown banana and a green sheep@@{"entities": ["banana", "sheep"], "attributes": [["banana", "brown"], ["sheep", "green"]], "relations": []}
+a brown elephant and a blue vase@@{"entities": ["elephant", "vase"], "attributes": [["elephant", "brown"], ["vase", "blue"]], "relations": []}
+a blue elephant and a brown vase@@{"entities": ["elephant", "vase"], "attributes": [["elephant", "blue"], ["vase", "brown"]], "relations": []}
+a red chair and a blue cup@@{"entities": ["chair", "cup"], "attributes": [["chair", "red"], ["cup", "blue"]], "relations": []}
+a blue chair and a red cup@@{"entities": ["chair", "cup"], "attributes": [["chair", "blue"], ["cup", "red"]], "relations": []}
+a brown giraffe and a red suitcase@@{"entities": ["giraffe", "suitcase"], "attributes": [["giraffe", "brown"], ["suitcase", "red"]], "relations": []}
+a red giraffe and a brown suitcase@@{"entities": ["giraffe", "suitcase"], "attributes": [["giraffe", "red"], ["suitcase", "brown"]], "relations": []}
+a brown bear and a blue cup@@{"entities": ["bear", "cup"], "attributes": [["bear", "brown"], ["cup", "blue"]], "relations": []}
+a blue bear and a brown cup@@{"entities": ["bear", "cup"], "attributes": [["bear", "blue"], ["cup", "brown"]], "relations": []}
+a blue backpack and a brown horse@@{"entities": ["backpack", "horse"], "attributes": [["backpack", "blue"], ["horse", "brown"]], "relations": []}
+a brown backpack and a blue horse@@{"entities": ["backpack", "horse"], "attributes": [["backpack", "brown"], ["horse", "blue"]], "relations": []}
+a red book and a brown cow@@{"entities": ["book", "cow"], "attributes": [["book", "red"], ["cow", "brown"]], "relations": []}
+a brown book and a red cow@@{"entities": ["book", "cow"], "attributes": [["book", "brown"], ["cow", "red"]], "relations": []}
+a red book and a blue bowl@@{"entities": ["book", "bowl"], "attributes": [["book", "red"], ["bowl", "blue"]], "relations": []}
+a blue book and a red bowl@@{"entities": ["book", "bowl"], "attributes": [["book", "blue"], ["bowl", "red"]], "relations": []}
+a blue backpack and a brown elephant@@{"entities": ["backpack", "elephant"], "attributes": [["backpack", "blue"], ["elephant", "brown"]], "relations": []}
+a brown backpack and a blue elephant@@{"entities": ["backpack", "elephant"], "attributes": [["backpack", "brown"], ["elephant", "blue"]], "relations": []}
+a brown cow and a blue vase@@{"entities": ["cow", "vase"], "attributes": [["cow", "brown"], ["vase", "blue"]], "relations": []}
+a blue cow and a brown vase@@{"entities": ["cow", "vase"], "attributes": [["cow", "blue"], ["vase", "brown"]], "relations": []}
+a gold clock and a red suitcase@@{"entities": ["clock", "suitcase"], "attributes": [["clock", "gold"], ["suitcase", "red"]], "relations": []}
+a red clock and a gold suitcase@@{"entities": ["clock", "suitcase"], "attributes": [["clock", "red"], ["suitcase", "gold"]], "relations": []}
+a green apple and a red book@@{"entities": ["apple", "book"], "attributes": [["apple", "green"], ["book", "red"]], "relations": []}
+a red apple and a green book@@{"entities": ["apple", "book"], "attributes": [["apple", "red"], ["book", "green"]], "relations": []}
+a green apple and a brown sheep@@{"entities": ["apple", "sheep"], "attributes": [["apple", "green"], ["sheep", "brown"]], "relations": []}
+a brown apple and a green sheep@@{"entities": ["apple", "sheep"], "attributes": [["apple", "brown"], ["sheep", "green"]], "relations": []}
+a red book and a brown horse@@{"entities": ["book", "horse"], "attributes": [["book", "red"], ["horse", "brown"]], "relations": []}
+a brown book and a red horse@@{"entities": ["book", "horse"], "attributes": [["book", "brown"], ["horse", "red"]], "relations": []}
+a blue cup and a red suitcase@@{"entities": ["cup", "suitcase"], "attributes": [["cup", "blue"], ["suitcase", "red"]], "relations": []}
+a red cup and a blue suitcase@@{"entities": ["cup", "suitcase"], "attributes": [["cup", "red"], ["suitcase", "blue"]], "relations": []}
+a blue bowl and a red car@@{"entities": ["bowl", "car"], "attributes": [["bowl", "blue"], ["car", "red"]], "relations": []}
+a red bowl and a blue car@@{"entities": ["bowl", "car"], "attributes": [["bowl", "red"], ["car", "blue"]], "relations": []}
+a blue cake and a brown giraffe@@{"entities": ["cake", "giraffe"], "attributes": [["cake", "blue"], ["giraffe", "brown"]], "relations": []}
+a brown cake and a blue giraffe@@{"entities": ["cake", "giraffe"], "attributes": [["cake", "brown"], ["giraffe", "blue"]], "relations": []}
+a blue cake and a gold clock@@{"entities": ["cake", "clock"], "attributes": [["cake", "blue"], ["clock", "gold"]], "relations": []}
+a gold cake and a blue clock@@{"entities": ["cake", "clock"], "attributes": [["cake", "gold"], ["clock", "blue"]], "relations": []}
+a green apple and a blue boat@@{"entities": ["apple", "boat"], "attributes": [["apple", "green"], ["boat", "blue"]], "relations": []}
+a blue apple and a green boat@@{"entities": ["apple", "boat"], "attributes": [["apple", "blue"], ["boat", "green"]], "relations": []}
+a blue bowl and a red chair@@{"entities": ["bowl", "chair"], "attributes": [["bowl", "blue"], ["chair", "red"]], "relations": []}
+a red bowl and a blue chair@@{"entities": ["bowl", "chair"], "attributes": [["bowl", "red"], ["chair", "blue"]], "relations": []}
+a blue cake and a brown cow@@{"entities": ["cake", "cow"], "attributes": [["cake", "blue"], ["cow", "brown"]], "relations": []}
+a brown cake and a blue cow@@{"entities": ["cake", "cow"], "attributes": [["cake", "brown"], ["cow", "blue"]], "relations": []}
+a green banana and a red train@@{"entities": ["banana", "train"], "attributes": [["banana", "green"], ["train", "red"]], "relations": []}
+a red banana and a green train@@{"entities": ["banana", "train"], "attributes": [["banana", "red"], ["train", "green"]], "relations": []}
+a green apple and a red car@@{"entities": ["apple", "car"], "attributes": [["apple", "green"], ["car", "red"]], "relations": []}
+a red apple and a green car@@{"entities": ["apple", "car"], "attributes": [["apple", "red"], ["car", "green"]], "relations": []}
+a green apple and a brown giraffe@@{"entities": ["apple", "giraffe"], "attributes": [["apple", "green"], ["giraffe", "brown"]], "relations": []}
+a brown apple and a green giraffe@@{"entities": ["apple", "giraffe"], "attributes": [["apple", "brown"], ["giraffe", "green"]], "relations": []}
+a red book and a blue cup@@{"entities": ["book", "cup"], "attributes": [["book", "red"], ["cup", "blue"]], "relations": []}
+a blue book and a red cup@@{"entities": ["book", "cup"], "attributes": [["book", "blue"], ["cup", "red"]], "relations": []}
+a gold clock and a brown giraffe@@{"entities": ["clock", "giraffe"], "attributes": [["clock", "gold"], ["giraffe", "brown"]], "relations": []}
+a brown clock and a gold giraffe@@{"entities": ["clock", "giraffe"], "attributes": [["clock", "brown"], ["giraffe", "gold"]], "relations": []}
+a red book and a brown giraffe@@{"entities": ["book", "giraffe"], "attributes": [["book", "red"], ["giraffe", "brown"]], "relations": []}
+a brown book and a red giraffe@@{"entities": ["book", "giraffe"], "attributes": [["book", "brown"], ["giraffe", "red"]], "relations": []}
+a green bench and a blue bowl@@{"entities": ["bench", "bowl"], "attributes": [["bench", "green"], ["bowl", "blue"]], "relations": []}
+a blue bench and a green bowl@@{"entities": ["bench", "bowl"], "attributes": [["bench", "blue"], ["bowl", "green"]], "relations": []}
+a green bench and a blue cake@@{"entities": ["bench", "cake"], "attributes": [["bench", "green"], ["cake", "blue"]], "relations": []}
+a blue bench and a green cake@@{"entities": ["bench", "cake"], "attributes": [["bench", "blue"], ["cake", "green"]], "relations": []}
+a brown horse and a blue vase@@{"entities": ["horse", "vase"], "attributes": [["horse", "brown"], ["vase", "blue"]], "relations": []}
+a blue horse and a brown vase@@{"entities": ["horse", "vase"], "attributes": [["horse", "blue"], ["vase", "brown"]], "relations": []}
+a blue backpack and a brown cow@@{"entities": ["backpack", "cow"], "attributes": [["backpack", "blue"], ["cow", "brown"]], "relations": []}
+a brown backpack and a blue cow@@{"entities": ["backpack", "cow"], "attributes": [["backpack", "brown"], ["cow", "blue"]], "relations": []}
+a blue backpack and a red book@@{"entities": ["backpack", "book"], "attributes": [["backpack", "blue"], ["book", "red"]], "relations": []}
+a red backpack and a blue book@@{"entities": ["backpack", "book"], "attributes": [["backpack", "red"], ["book", "blue"]], "relations": []}
+a brown bear and a red book@@{"entities": ["bear", "book"], "attributes": [["bear", "brown"], ["book", "red"]], "relations": []}
+a red bear and a brown book@@{"entities": ["bear", "book"], "attributes": [["bear", "red"], ["book", "brown"]], "relations": []}
+a green banana and a brown dog@@{"entities": ["banana", "dog"], "attributes": [["banana", "green"], ["dog", "brown"]], "relations": []}
+a brown banana and a green dog@@{"entities": ["banana", "dog"], "attributes": [["banana", "brown"], ["dog", "green"]], "relations": []}
+a green banana and a brown horse@@{"entities": ["banana", "horse"], "attributes": [["banana", "green"], ["horse", "brown"]], "relations": []}
+a brown banana and a green horse@@{"entities": ["banana", "horse"], "attributes": [["banana", "brown"], ["horse", "green"]], "relations": []}
+a blue cake and a red suitcase@@{"entities": ["cake", "suitcase"], "attributes": [["cake", "blue"], ["suitcase", "red"]], "relations": []}
+a red cake and a blue suitcase@@{"entities": ["cake", "suitcase"], "attributes": [["cake", "red"], ["suitcase", "blue"]], "relations": []}
+a brown elephant and a red suitcase@@{"entities": ["elephant", "suitcase"], "attributes": [["elephant", "brown"], ["suitcase", "red"]], "relations": []}
+a red elephant and a brown suitcase@@{"entities": ["elephant", "suitcase"], "attributes": [["elephant", "red"], ["suitcase", "brown"]], "relations": []}
+a green apple and a brown horse@@{"entities": ["apple", "horse"], "attributes": [["apple", "green"], ["horse", "brown"]], "relations": []}
+a brown apple and a green horse@@{"entities": ["apple", "horse"], "attributes": [["apple", "brown"], ["horse", "green"]], "relations": []}
+a green banana and a blue vase@@{"entities": ["banana", "vase"], "attributes": [["banana", "green"], ["vase", "blue"]], "relations": []}
+a blue banana and a green vase@@{"entities": ["banana", "vase"], "attributes": [["banana", "blue"], ["vase", "green"]], "relations": []}
+a blue backpack and a brown bear@@{"entities": ["backpack", "bear"], "attributes": [["backpack", "blue"], ["bear", "brown"]], "relations": []}
+a brown backpack and a blue bear@@{"entities": ["backpack", "bear"], "attributes": [["backpack", "brown"], ["bear", "blue"]], "relations": []}
+a green apple and a blue vase@@{"entities": ["apple", "vase"], "attributes": [["apple", "green"], ["vase", "blue"]], "relations": []}
+a blue apple and a green vase@@{"entities": ["apple", "vase"], "attributes": [["apple", "blue"], ["vase", "green"]], "relations": []}
+a green banana and a red suitcase@@{"entities": ["banana", "suitcase"], "attributes": [["banana", "green"], ["suitcase", "red"]], "relations": []}
+a red banana and a green suitcase@@{"entities": ["banana", "suitcase"], "attributes": [["banana", "red"], ["suitcase", "green"]], "relations": []}
+a blue bowl and a brown elephant@@{"entities": ["bowl", "elephant"], "attributes": [["bowl", "blue"], ["elephant", "brown"]], "relations": []}
+a brown bowl and a blue elephant@@{"entities": ["bowl", "elephant"], "attributes": [["bowl", "brown"], ["elephant", "blue"]], "relations": []}
+a blue backpack and a red chair@@{"entities": ["backpack", "chair"], "attributes": [["backpack", "blue"], ["chair", "red"]], "relations": []}
+a red backpack and a blue chair@@{"entities": ["backpack", "chair"], "attributes": [["backpack", "red"], ["chair", "blue"]], "relations": []}
+a blue cup and a brown horse@@{"entities": ["cup", "horse"], "attributes": [["cup", "blue"], ["horse", "brown"]], "relations": []}
+a brown cup and a blue horse@@{"entities": ["cup", "horse"], "attributes": [["cup", "brown"], ["horse", "blue"]], "relations": []}
+a brown sheep and a blue vase@@{"entities": ["sheep", "vase"], "attributes": [["sheep", "brown"], ["vase", "blue"]], "relations": []}
+a blue sheep and a brown vase@@{"entities": ["sheep", "vase"], "attributes": [["sheep", "blue"], ["vase", "brown"]], "relations": []}
+a brown cat and a gold clock@@{"entities": ["cat", "clock"], "attributes": [["cat", "brown"], ["clock", "gold"]], "relations": []}
+a gold cat and a brown clock@@{"entities": ["cat", "clock"], "attributes": [["cat", "gold"], ["clock", "brown"]], "relations": []}
+a blue backpack and a green banana@@{"entities": ["backpack", "banana"], "attributes": [["backpack", "blue"], ["banana", "green"]], "relations": []}
+a green backpack and a blue banana@@{"entities": ["backpack", "banana"], "attributes": [["backpack", "green"], ["banana", "blue"]], "relations": []}
+a red chair and a brown elephant@@{"entities": ["chair", "elephant"], "attributes": [["chair", "red"], ["elephant", "brown"]], "relations": []}
+a brown chair and a red elephant@@{"entities": ["chair", "elephant"], "attributes": [["chair", "brown"], ["elephant", "red"]], "relations": []}
+a green apple and a blue backpack@@{"entities": ["apple", "backpack"], "attributes": [["apple", "green"], ["backpack", "blue"]], "relations": []}
+a blue apple and a green backpack@@{"entities": ["apple", "backpack"], "attributes": [["apple", "blue"], ["backpack", "green"]], "relations": []}
+a blue backpack and a gold clock@@{"entities": ["backpack", "clock"], "attributes": [["backpack", "blue"], ["clock", "gold"]], "relations": []}
+a gold backpack and a blue clock@@{"entities": ["backpack", "clock"], "attributes": [["backpack", "gold"], ["clock", "blue"]], "relations": []}
+a blue backpack and a brown sheep@@{"entities": ["backpack", "sheep"], "attributes": [["backpack", "blue"], ["sheep", "brown"]], "relations": []}
+a brown backpack and a blue sheep@@{"entities": ["backpack", "sheep"], "attributes": [["backpack", "brown"], ["sheep", "blue"]], "relations": []}
+a blue backpack and a brown giraffe@@{"entities": ["backpack", "giraffe"], "attributes": [["backpack", "blue"], ["giraffe", "brown"]], "relations": []}
+a brown backpack and a blue giraffe@@{"entities": ["backpack", "giraffe"], "attributes": [["backpack", "brown"], ["giraffe", "blue"]], "relations": []}
+a red book and a blue cake@@{"entities": ["book", "cake"], "attributes": [["book", "red"], ["cake", "blue"]], "relations": []}
+a blue book and a red cake@@{"entities": ["book", "cake"], "attributes": [["book", "blue"], ["cake", "red"]], "relations": []}
+a red suitcase and a blue vase@@{"entities": ["suitcase", "vase"], "attributes": [["suitcase", "red"], ["vase", "blue"]], "relations": []}
+a blue suitcase and a red vase@@{"entities": ["suitcase", "vase"], "attributes": [["suitcase", "blue"], ["vase", "red"]], "relations": []}
+a blue cup and a brown sheep@@{"entities": ["cup", "sheep"], "attributes": [["cup", "blue"], ["sheep", "brown"]], "relations": []}
+a brown cup and a blue sheep@@{"entities": ["cup", "sheep"], "attributes": [["cup", "brown"], ["sheep", "blue"]], "relations": []}
+a brown bear and a red train@@{"entities": ["bear", "train"], "attributes": [["bear", "brown"], ["train", "red"]], "relations": []}
+a red bear and a brown train@@{"entities": ["bear", "train"], "attributes": [["bear", "red"], ["train", "brown"]], "relations": []}
+a green apple and a red suitcase@@{"entities": ["apple", "suitcase"], "attributes": [["apple", "green"], ["suitcase", "red"]], "relations": []}
+a red apple and a green suitcase@@{"entities": ["apple", "suitcase"], "attributes": [["apple", "red"], ["suitcase", "green"]], "relations": []}
+a blue bowl and a red train@@{"entities": ["bowl", "train"], "attributes": [["bowl", "blue"], ["train", "red"]], "relations": []}
+a red bowl and a blue train@@{"entities": ["bowl", "train"], "attributes": [["bowl", "red"], ["train", "blue"]], "relations": []}
+a green apple and a red train@@{"entities": ["apple", "train"], "attributes": [["apple", "green"], ["train", "red"]], "relations": []}
+a red apple and a green train@@{"entities": ["apple", "train"], "attributes": [["apple", "red"], ["train", "green"]], "relations": []}
+a brown giraffe and a red train@@{"entities": ["giraffe", "train"], "attributes": [["giraffe", "brown"], ["train", "red"]], "relations": []}
+a red giraffe and a brown train@@{"entities": ["giraffe", "train"], "attributes": [["giraffe", "red"], ["train", "brown"]], "relations": []}
+a blue boat and a red suitcase@@{"entities": ["boat", "suitcase"], "attributes": [["boat", "blue"], ["suitcase", "red"]], "relations": []}
+a red boat and a blue suitcase@@{"entities": ["boat", "suitcase"], "attributes": [["boat", "red"], ["suitcase", "blue"]], "relations": []}
+a blue bowl and a brown horse@@{"entities": ["bowl", "horse"], "attributes": [["bowl", "blue"], ["horse", "brown"]], "relations": []}
+a brown bowl and a blue horse@@{"entities": ["bowl", "horse"], "attributes": [["bowl", "brown"], ["horse", "blue"]], "relations": []}
+a blue backpack and a red train@@{"entities": ["backpack", "train"], "attributes": [["backpack", "blue"], ["train", "red"]], "relations": []}
+a red backpack and a blue train@@{"entities": ["backpack", "train"], "attributes": [["backpack", "red"], ["train", "blue"]], "relations": []}
+a brown bear and a blue vase@@{"entities": ["bear", "vase"], "attributes": [["bear", "brown"], ["vase", "blue"]], "relations": []}
+a blue bear and a brown vase@@{"entities": ["bear", "vase"], "attributes": [["bear", "blue"], ["vase", "brown"]], "relations": []}
+a green apple and a brown elephant@@{"entities": ["apple", "elephant"], "attributes": [["apple", "green"], ["elephant", "brown"]], "relations": []}
+a brown apple and a green elephant@@{"entities": ["apple", "elephant"], "attributes": [["apple", "brown"], ["elephant", "green"]], "relations": []}
+a green banana and a brown bear@@{"entities": ["banana", "bear"], "attributes": [["banana", "green"], ["bear", "brown"]], "relations": []}
+a brown banana and a green bear@@{"entities": ["banana", "bear"], "attributes": [["banana", "brown"], ["bear", "green"]], "relations": []}
+a blue boat and a brown cat@@{"entities": ["boat", "cat"], "attributes": [["boat", "blue"], ["cat", "brown"]], "relations": []}
+a brown boat and a blue cat@@{"entities": ["boat", "cat"], "attributes": [["boat", "brown"], ["cat", "blue"]], "relations": []}
+a green banana and a blue boat@@{"entities": ["banana", "boat"], "attributes": [["banana", "green"], ["boat", "blue"]], "relations": []}
+a blue banana and a green boat@@{"entities": ["banana", "boat"], "attributes": [["banana", "blue"], ["boat", "green"]], "relations": []}
+a red car and a blue cup@@{"entities": ["car", "cup"], "attributes": [["car", "red"], ["cup", "blue"]], "relations": []}
+a blue car and a red cup@@{"entities": ["car", "cup"], "attributes": [["car", "blue"], ["cup", "red"]], "relations": []}
+a blue backpack and a red car@@{"entities": ["backpack", "car"], "attributes": [["backpack", "blue"], ["car", "red"]], "relations": []}
+a red backpack and a blue car@@{"entities": ["backpack", "car"], "attributes": [["backpack", "red"], ["car", "blue"]], "relations": []}
+a brown cow and a blue cup@@{"entities": ["cow", "cup"], "attributes": [["cow", "brown"], ["cup", "blue"]], "relations": []}
+a blue cow and a brown cup@@{"entities": ["cow", "cup"], "attributes": [["cow", "blue"], ["cup", "brown"]], "relations": []}
+a red train and a blue vase@@{"entities": ["train", "vase"], "attributes": [["train", "red"], ["vase", "blue"]], "relations": []}
+a blue train and a red vase@@{"entities": ["train", "vase"], "attributes": [["train", "blue"], ["vase", "red"]], "relations": []}
+a green banana and a brown cow@@{"entities": ["banana", "cow"], "attributes": [["banana", "green"], ["cow", "brown"]], "relations": []}
+a brown banana and a green cow@@{"entities": ["banana", "cow"], "attributes": [["banana", "brown"], ["cow", "green"]], "relations": []}
+a brown giraffe and a blue vase@@{"entities": ["giraffe", "vase"], "attributes": [["giraffe", "brown"], ["vase", "blue"]], "relations": []}
+a blue giraffe and a brown vase@@{"entities": ["giraffe", "vase"], "attributes": [["giraffe", "blue"], ["vase", "brown"]], "relations": []}
+a brown cow and a red suitcase@@{"entities": ["cow", "suitcase"], "attributes": [["cow", "brown"], ["suitcase", "red"]], "relations": []}
+a red cow and a brown suitcase@@{"entities": ["cow", "suitcase"], "attributes": [["cow", "red"], ["suitcase", "brown"]], "relations": []}
+a green apple and a blue cup@@{"entities": ["apple", "cup"], "attributes": [["apple", "green"], ["cup", "blue"]], "relations": []}
+a blue apple and a green cup@@{"entities": ["apple", "cup"], "attributes": [["apple", "blue"], ["cup", "green"]], "relations": []}
+a red book and a brown sheep@@{"entities": ["book", "sheep"], "attributes": [["book", "red"], ["sheep", "brown"]], "relations": []}
+a brown book and a red sheep@@{"entities": ["book", "sheep"], "attributes": [["book", "brown"], ["sheep", "red"]], "relations": []}
+a green banana and a brown giraffe@@{"entities": ["banana", "giraffe"], "attributes": [["banana", "green"], ["giraffe", "brown"]], "relations": []}
+a brown banana and a green giraffe@@{"entities": ["banana", "giraffe"], "attributes": [["banana", "brown"], ["giraffe", "green"]], "relations": []}
+a blue boat and a red book@@{"entities": ["boat", "book"], "attributes": [["boat", "blue"], ["book", "red"]], "relations": []}
+a red boat and a blue book@@{"entities": ["boat", "book"], "attributes": [["boat", "red"], ["book", "blue"]], "relations": []}
+a blue cup and a brown elephant@@{"entities": ["cup", "elephant"], "attributes": [["cup", "blue"], ["elephant", "brown"]], "relations": []}
+a brown cup and a blue elephant@@{"entities": ["cup", "elephant"], "attributes": [["cup", "brown"], ["elephant", "blue"]], "relations": []}
+a red chair and a brown sheep@@{"entities": ["chair", "sheep"], "attributes": [["chair", "red"], ["sheep", "brown"]], "relations": []}
+a brown chair and a red sheep@@{"entities": ["chair", "sheep"], "attributes": [["chair", "brown"], ["sheep", "red"]], "relations": []}
+a brown bear and a blue boat@@{"entities": ["bear", "boat"], "attributes": [["bear", "brown"], ["boat", "blue"]], "relations": []}
+a blue bear and a brown boat@@{"entities": ["bear", "boat"], "attributes": [["bear", "blue"], ["boat", "brown"]], "relations": []}
+A red car and a white sheep@@{"entities": ["car", "sheep"], "attributes": [["car", "red"], ["sheep", "white"]], "relations": []}
+A blue bird and a brown bear@@{"entities": ["bird", "bear"], "attributes": [["bird", "blue"], ["bear", "brown"]], "relations": []}
+A green apple and a black backpack@@{"entities": ["apple", "backpack"], "attributes": [["apple", "green"], ["backpack", "black"]], "relations": []}
+A green cup and a blue cell phone@@{"entities": ["cup", "cell phone"], "attributes": [["cup", "green"], ["cell phone", "blue"]], "relations": []}
+A yellow book and a red vase@@{"entities": ["book", "vase"], "attributes": [["book", "yellow"], ["vase", "red"]], "relations": []}
+A white car and a red sheep@@{"entities": ["car", "sheep"], "attributes": [["car", "white"], ["sheep", "red"]], "relations": []}
+A brown bird and a blue bear@@{"entities": ["bird", "bear"], "attributes": [["bird", "brown"], ["bear", "blue"]], "relations": []}
+A black apple and a green backpack@@{"entities": ["apple", "backpack"], "attributes": [["apple", "black"], ["backpack", "green"]], "relations": []}
+A blue cup and a green cell phone@@{"entities": ["cup", "cell phone"], "attributes": [["cup", "blue"], ["cell phone", "green"]], "relations": []}
+A red book and a yellow vase@@{"entities": ["book", "vase"], "attributes": [["book", "red"], ["vase", "yellow"]], "relations": []}
+A red cylinder and a blue cube@@{"entities": ["cylinder", "cube"], "attributes": [["cylinder", "red"], ["cube", "blue"]], "relations": []}
+A blue cylinder and a red cube@@{"entities": ["cylinder", "cube"], "attributes": [["cylinder", "blue"], ["cube", "red"]], "relations": []}
+A red apple and yellow bananas@@{"entities": ["apple", "bananas"], "attributes": [["apple", "red"], ["bananas", "yellow"]], "relations": []}
+A yellow apple and red bananas@@{"entities": ["apple", "bananas"], "attributes": [["apple", "yellow"], ["bananas", "red"]], "relations": []}
+a stack of three red cubes with a blue sphere on the right and two green cones on the left@@{"entities": ["stack", "cubes", "sphere", "cones"], "attributes": [["cubes", "red"], ["cubes", "three"], ["sphere", "on the right"], ["sphere", "blue"], ["cones", "two"], ["cones", "on the left"], ["cones", "green"]], "relations": [["stack", "of", "cubes"]]}
+a metallic blue sphere to the left of a yellow box made of felt@@{"entities": ["sphere", "box"], "attributes": [["sphere", "metallic blue"], ["sphere", "to the left of"], ["box", "yellow"], ["box", "made of felt"]], "relations": [["sphere", "to the left of", "box"]]}
+a blue wooden pyramid on top of a red plastic box@@{"entities": ["pyramid", "box"], "attributes": [["pyramid", "blue"], ["pyramid", "wooden"], ["box", "plastic"], ["box", "red"]], "relations": [["pyramid", "on top of", "box"]]}
+a red cube on top of a blue cube@@{"entities": ["cube", "cube"], "attributes": [["cube", "red"], ["cube", "blue"]], "relations": []}
+a white flag with a red circle next to a solid blue flag@@{"entities": ["flag", "circle", "flag"], "attributes": [["flag", "white"], ["circle", "red"], ["flag", "solid blue"]], "relations": [["flag", "with", "circle"]]}
+a red circle on top of a blue square@@{"entities": ["circle", "square"], "attributes": [["circle", "red"], ["square", "blue"]], "relations": [["circle", "on top of", "square"]]}
+a yellow box to the right of a blue sphere@@{"entities": ["box", "sphere"], "attributes": [["box", "yellow"], ["box", "to the right of"], ["sphere", "blue"]], "relations": [["box", "to the right of", "sphere"]]}
+a red box to the right of a green sphere@@{"entities": ["box", "sphere"], "attributes": [["box", "to the right of"], ["box", "red"], ["sphere", "green"]], "relations": [["box", "to the right of", "sphere"]]}
+a red box next to a blue box@@{"entities": ["box", "box"], "attributes": [["box", "red"], ["box", "blue"]], "relations": []}
+a red sphere on top of a yellow box@@{"entities": ["sphere", "box"], "attributes": [["sphere", "red"], ["box", "yellow"]], "relations": [["sphere", "on top of", "box"]]}
+a large blue box with three small yellow boxes on it@@{"entities": ["box", "boxes"], "attributes": [["box", "blue"], ["box", "large"], ["boxes", "yellow"], ["boxes", "small"], ["boxes", "three"]], "relations": [["boxes", "on", "box"]]}
+a red block to the left of a blue pyramid@@{"entities": ["block", "pyramid"], "attributes": [["block", "to the left of"], ["block", "red"], ["pyramid", "blue"]], "relations": []}
+three small yellow boxes on a large blue box@@{"entities": ["boxes", "box"], "attributes": [["boxes", "yellow"], ["boxes", "small"], ["boxes", "three"], ["box", "blue"], ["box", "large"]], "relations": [["boxes", "on", "box"]]}
+a black background with a large yellow circle@@{"entities": ["background", "circle"], "attributes": [["background", "black"], ["circle", "yellow"], ["circle", "large"]], "relations": [["circle", "with", "background"]]}
+a white background with a large blue circle@@{"entities": ["background", "circle"], "attributes": [["background", "white"], ["circle", "blue"], ["circle", "large"]], "relations": [["circle", "with", "background"]]}
+a black background with a large yellow square@@{"entities": ["background", "square"], "attributes": [["background", "black"], ["square", "yellow"], ["square", "large"]], "relations": [["square", "with", "background"]]}
+a white background with a large blue square@@{"entities": ["background", "square"], "attributes": [["background", "white"], ["square", "blue"], ["square", "large"]], "relations": [["square", "with", "background"]]}
+a black background with a large yellow circle and a small red square@@{"entities": ["background", "circle", "square"], "attributes": [["background", "black"], ["circle", "yellow"], ["circle", "large"], ["square", "small"], ["square", "red"]], "relations": [["background", "with", "circle"]]}
+a white background with a large blue circle and a small green square@@{"entities": ["background", "circle", "square"], "attributes": [["background", "white"], ["circle", "blue"], ["circle", "large"], ["square", "small"], ["square", "green"]], "relations": [["circle", "with", "square"]]}
+a large yellow triangle above a green square and red rectangle@@{"entities": ["triangle", "square", "rectangle"], "attributes": [["triangle", "yellow"], ["triangle", "large"], ["square", "green"], ["rectangle", "red"]], "relations": [["triangle", "above", "square"], ["triangle", "above", "rectangle"]]}
+two small circles to the left of a red triangle that is on a green rectangle@@{"entities": ["circles", "triangle", "rectangle"], "attributes": [["circles", "small"], ["circles", "to the left of a red triangle"], ["triangle", "red"], ["rectangle", "green"]], "relations": [["triangle", "on", "rectangle"]]}
+a green pyramid in front of a blue box@@{"entities": ["pyramid", "box"], "attributes": [["pyramid", "green"], ["box", "blue"], ["box", "in front of"]], "relations": []}
+a large yellow sphere behind a small purple pyramid@@{"entities": ["sphere", "pyramid"], "attributes": [["sphere", "yellow"], ["sphere", "large"], ["pyramid", "purple"], ["pyramid", "small"]], "relations": [["sphere", "behind", "pyramid"]]}
+a metallic blue sphere to the left of a brown cardboard box@@{"entities": ["sphere", "box"], "attributes": [["sphere", "metallic blue"], ["sphere", "to the left of"], ["box", "brown cardboard"]], "relations": []}
+a yellow swirl next to a blue dashed line.@@{"entities": ["swirl", "line"], "attributes": [["swirl", "yellow"], ["line", "dashed"], ["line", "blue"]], "relations": [["swirl", "next to", "line"]]}
+a red swirl above a black dashed line.@@{"entities": ["swirl", "line"], "attributes": [["swirl", "red"], ["line", "dashed"], ["line", "black"]], "relations": [["swirl", "above", "line"]]}
+a green pepper to the left of a red pepper@@{"entities": ["green pepper", "red pepper"], "attributes": [["green pepper", "to the left of"]], "relations": []}
+a brown trash bin to the left of a blue recycling bin@@{"entities": ["trash bin", "recycling bin"], "attributes": [["trash bin", "to the left of"], ["trash bin", "brown"], ["recycling bin", "blue"]], "relations": []}
+a circular brown trash bin in front of a brick wall@@{"entities": ["trash bin", "brick wall"], "attributes": [["trash bin", "brown"], ["trash bin", "circular"], ["brick wall", "in front of"]], "relations": []}
+Two back to back wooden benches next to a shrub near a stone walkway@@{"entities": ["benches", "shrub", "walkway"], "attributes": [["benches", "wooden"], ["benches", "back to back"], ["walkway", "stone"]], "relations": [["benches", "next to", "shrub"], ["shrub", "near", "walkway"]]}
+Two back to back stone benches next to a shrub near a wooden walkway@@{"entities": ["benches", "shrub", "walkway"], "attributes": [["benches", "stone"], ["benches", "back to back"], ["walkway", "wooden"]], "relations": [["benches", "next to", "shrub"], ["shrub", "near", "walkway"]]}
+An old building has stone arches and wooden doors@@{"entities": ["building", "stone arches", "wooden doors"], "attributes": [["building", "old"]], "relations": [["building", "has", "stone arches"], ["building", "has", "wooden doors"]]}
+An old building has wooden arches and stone doors@@{"entities": ["building", "arches", "doors"], "attributes": [["building", "old"], ["arches", "wooden"], ["doors", "stone"]], "relations": [["building", "has", "arches"], ["building", "has", "doors"]]}
+A tiled shower, molded plastic bathtub, shelf, mirror, wooden vanity, lamp, and sink make up a beige colored bathroom@@{"entities": ["tiled shower", "molded plastic bathtub", "shelf", "mirror", "wooden vanity", "lamp", "sink", "bathroom"], "attributes": [["bathroom", "beige colored"]], "relations": [["tiled shower", "make up", "bathroom"], ["molded plastic bathtub", "make up", "bathroom"], ["shelf", "make up", "bathroom"], ["mirror", "make up", "bathroom"], ["wooden vanity", "make up", "bathroom"], ["lamp", "make up", "bathroom"], ["sink", "make up", "bathroom"]]}
+A tiled shower , molded wooden bathtub , shelf , mirror , plastic vanity , lamp , and sink make up a beige colored bathroom@@{"entities": ["shower", "bathtub", "shelf", "mirror", "vanity", "lamp", "sink", "bathroom"], "attributes": [["shower", "tiled"], ["bathtub", "molded wooden"], ["vanity", "plastic"], ["bathroom", "beige colored"]], "relations": [["shower", "make up", "bathroom"], ["bathtub", "make up", "bathroom"], ["shelf", "make up", "bathroom"], ["mirror", "make up", "bathroom"], ["vanity", "make up", "bathroom"], ["lamp", "make up", "bathroom"], ["sink", "make up", "bathroom"]]}
+A bathroom has gold tile and a silver box on the wall@@{"entities": ["bathroom", "gold tile", "silver box", "wall"], "attributes": [], "relations": [["bathroom", "has", "gold tile"], ["silver box", "on", "wall"]]}
+A bathroom has silver tile and a gold box on the wall@@{"entities": ["bathroom", "silver tile", "gold box", "wall"], "attributes": [], "relations": [["bathroom", "has", "silver tile"], ["gold box", "on", "wall"]]}
+This kitchen has wooden cabinets and silver and black appliances@@{"entities": ["kitchen", "cabinets", "appliances"], "attributes": [["cabinets", "wooden"], ["appliances", "black"], ["appliances", "silver"]], "relations": [["kitchen", "has", "cabinets"], ["kitchen", "has", "appliances"]]}
+This kitchen has silver cabinets and wooden and black appliances@@{"entities": ["kitchen", "silver cabinets", "black appliances"], "attributes": [], "relations": [["kitchen", "has", "silver cabinets"], ["kitchen", "has", "black appliances"]]}
+Blue and silver motorcycle parked on pavement under plastic awning@@{"entities": ["motorcycle", "pavement", "awning"], "attributes": [["motorcycle", "blue"], ["motorcycle", "silver"], ["awning", "plastic"]], "relations": [["motorcycle", "parked on", "pavement"], ["motorcycle", "under", "awning"]]}
+Blue and plastic motorcycle parked on pavement under silver awning@@{"entities": ["motorcycle", "pavement", "awning"], "attributes": [["motorcycle", "plastic"], ["motorcycle", "blue"], ["awning", "silver"]], "relations": [["motorcycle", "parked on", "pavement"], ["motorcycle", "under", "awning"]]}
+A stone building with a wooden bench placed near it@@{"entities": ["building", "bench"], "attributes": [["building", "stone"], ["bench", "wooden"]], "relations": [["bench", "placed near", "building"]]}
+A wooden building with a stone bench placed near it@@{"entities": ["building", "bench"], "attributes": [["building", "wooden"], ["bench", "stone"]], "relations": [["bench", "placed near", "building"]]}
+A cat is perched upon a wooden bench that sits on a stone patio@@{"entities": ["cat", "bench", "patio"], "attributes": [["bench", "wooden"], ["patio", "stone"]], "relations": [["cat", "perched upon", "bench"], ["bench", "sits on", "patio"]]}
+A cat is perched upon a stone bench that sits on a wooden patio@@{"entities": ["cat", "stone bench", "wooden patio"], "attributes": [], "relations": [["cat", "perched upon", "stone bench"], ["stone bench", "sits on", "wooden patio"]]}
+A wooden bench on a stone path with a green foliage background@@{"entities": ["bench", "path", "foliage"], "attributes": [["bench", "wooden"], ["path", "stone"], ["foliage", "background"], ["foliage", "green"]], "relations": [["bench", "on", "path"]]}
+A stone bench on a wooden path with a green foliage background@@{"entities": ["stone bench", "wooden path", "green foliage"], "attributes": [["green foliage", "background"]], "relations": [["stone bench", "on", "wooden path"]]}
+A plastic fork and lid sit on a wooden bench@@{"entities": ["fork", "lid", "bench"], "attributes": [["fork", "plastic"], ["bench", "wooden"]], "relations": [["fork", "sit on", "bench"], ["lid", "sit on", "bench"]]}
+A wooden fork and lid sit on a plastic bench@@{"entities": ["fork", "lid", "bench"], "attributes": [["fork", "wooden"], ["bench", "plastic"]], "relations": [["fork", "sit on", "bench"], ["lid", "sit on", "bench"]]}
+A white plastic fork and a container top left on a wooden bench@@{"entities": ["fork", "container", "bench"], "attributes": [["fork", "plastic"], ["fork", "white"], ["bench", "wooden"]], "relations": [["fork", "on", "bench"], ["container", "on", "bench"]]}
+A white wooden fork and a container top left on a plastic bench@@{"entities": ["fork", "container", "bench"], "attributes": [["fork", "wooden"], ["fork", "white"], ["bench", "plastic"]], "relations": [["fork", "on", "bench"], ["container", "on", "bench"]]}
+A plastic fork and dish on wooden slats@@{"entities": ["fork", "dish", "slats"], "attributes": [["fork", "plastic"], ["slats", "wooden"]], "relations": [["fork", "on", "slats"], ["dish", "on", "slats"]]}
+A wooden fork and dish on plastic slats@@{"entities": ["fork", "dish", "slats"], "attributes": [["fork", "wooden"], ["slats", "plastic"]], "relations": [["fork", "on", "slats"], ["dish", "on", "slats"]]}
+A stone statue of an elderly woman sits upon a wooden bench@@{"entities": ["stone statue", "elderly woman", "wooden bench"], "attributes": [], "relations": [["stone statue", "of", "elderly woman"], ["stone statue", "sits upon", "wooden bench"]]}
+A wooden statue of an elderly woman sits upon a stone bench@@{"entities": ["statue", "woman", "bench"], "attributes": [["statue", "wooden"], ["woman", "elderly"], ["bench", "stone"]], "relations": [["statue", "of", "woman"], ["statue", "sits upon", "bench"]]}
+A wooden bench near a tree and a stone wall@@{"entities": ["bench", "tree", "wall"], "attributes": [["bench", "wooden"], ["wall", "stone"]], "relations": [["bench", "near", "tree"], ["bench", "near", "wall"]]}
+A stone bench near a tree and a wooden wall@@{"entities": ["stone bench", "tree", "wooden wall"], "attributes": [], "relations": [["stone bench", "near", "tree"], ["stone bench", "near", "wooden wall"]]}
+A green plastic chair sitting next to a wooden bench@@{"entities": ["chair", "bench"], "attributes": [["chair", "plastic"], ["chair", "green"], ["bench", "wooden"]], "relations": [["chair", "sitting next to", "bench"]]}
+A green wooden chair sitting next to a plastic bench@@{"entities": ["chair", "bench"], "attributes": [["chair", "wooden"], ["chair", "green"], ["bench", "plastic"]], "relations": [["chair", "sitting next to", "bench"]]}
+An outdoor patio area with a wooden bench, plastic chair and a black piece of luggage with a closed umbrella resting on top of it@@{"entities": ["patio area", "wooden bench", "plastic chair", "black piece of luggage", "closed umbrella"], "attributes": [["patio area", "outdoor"]], "relations": [["closed umbrella", "resting on top of", "black piece of luggage"]]}
+An outdoor patio area with a plastic bench , wooden chair and a black piece of luggage with a closed umbrella resting on top of it@@{"entities": ["patio area", "plastic bench", "wooden chair", "black piece of luggage", "closed umbrella"], "attributes": [["patio area", "outdoor"]], "relations": []}
+A gold colored dog lays nears some barrels on a wooden deck@@{"entities": ["dog", "barrels", "deck"], "attributes": [["dog", "gold colored"], ["deck", "wooden"]], "relations": [["dog", "lays nears", "barrels"], ["barrels", "on", "deck"]]}
+A wooden colored dog lays nears some barrels on a gold deck@@{"entities": ["dog", "barrels", "deck"], "attributes": [["dog", "wooden colored"], ["deck", "gold"]], "relations": [["dog", "lays nears", "barrels"], ["barrels", "on", "deck"]]}
+A zebra standing alone in the snow with a stone block wall and wooden fence behind it@@{"entities": ["zebra", "snow", "stone block wall", "wooden fence"], "attributes": [], "relations": [["zebra", "standing", "snow"], ["stone block wall", "behind", "zebra"], ["wooden fence", "behind", "zebra"]]}
+A zebra standing alone in the snow with a wooden block wall and stone fence behind it@@{"entities": ["zebra", "snow", "wooden block wall", "stone fence"], "attributes": [], "relations": [["zebra", "standing", "snow"], ["wooden block wall", "behind", "zebra"], ["stone fence", "behind", "zebra"]]}
+Person handles yellow vegetable in silver pot at the wooden counter@@{"entities": ["person", "yellow vegetable", "silver pot", "wooden counter"], "attributes": [], "relations": [["person", "handles", "yellow vegetable"], ["yellow vegetable", "in", "silver pot"], ["silver pot", "at", "wooden counter"]]}
+Person handles yellow vegetable in wooden pot at the silver counter@@{"entities": ["person", "yellow vegetable", "wooden pot", "silver counter"], "attributes": [], "relations": [["person", "handles", "yellow vegetable"], ["yellow vegetable", "in", "wooden pot"], ["wooden pot", "at", "silver counter"]]}
+a skateboarder jumps over a stone dome with silver domes in front of it and bicycler behind him@@{"entities": ["skateboarder", "stone dome", "silver domes", "bicycler"], "attributes": [["silver domes", "in front of it"], ["bicycler", "behind him"]], "relations": [["skateboarder", "jumps over", "stone dome"]]}
+a skateboarder jumps over a silver dome with stone domes in front of it and bicycler behind him@@{"entities": ["skateboarder", "silver dome", "stone domes", "bicycler"], "attributes": [["stone domes", "in front of it"], ["bicycler", "behind him"]], "relations": [["skateboarder", "jumps over", "silver dome"]]}
+vegetables on a wooden table in plastic bags@@{"entities": ["vegetables", "table", "bags"], "attributes": [["table", "wooden"], ["bags", "plastic"]], "relations": [["vegetables", "on", "table"], ["vegetables", "in", "bags"]]}
+vegetables on a plastic table in wooden bags@@{"entities": ["vegetables", "plastic table", "wooden bags"], "attributes": [], "relations": [["vegetables", "on", "plastic table"], ["plastic table", "in", "wooden bags"]]}
+A plastic box full of powdered donuts on a wooden table@@{"entities": ["box", "donuts", "table"], "attributes": [["box", "plastic"], ["donuts", "powdered"], ["table", "wooden"]], "relations": [["box", "full of", "donuts"], ["box", "on", "table"]]}
+A wooden box full of powdered donuts on a plastic table@@{"entities": ["box", "donuts", "table"], "attributes": [["box", "wooden"], ["donuts", "powdered"], ["table", "plastic"]], "relations": [["box", "full of", "donuts"], ["box", "on", "table"]]}
+A silver stove sits next to a counter on a wooden floor@@{"entities": ["stove", "counter", "floor"], "attributes": [["stove", "silver"], ["floor", "wooden"]], "relations": [["stove", "sits next to", "counter"], ["stove", "on", "floor"]]}
+A wooden stove sits next to a counter on a silver floor@@{"entities": ["stove", "counter", "floor"], "attributes": [["stove", "wooden"], ["floor", "silver"]], "relations": [["stove", "sits next to", "counter"], ["counter", "on", "floor"]]}
+Small silver laptop sitting on top of a wooden computer desk@@{"entities": ["laptop", "computer desk"], "attributes": [["laptop", "small"], ["laptop", "silver"], ["computer desk", "wooden"]], "relations": [["laptop", "sitting on top of", "computer desk"]]}
+Small wooden laptop sitting on top of a silver computer desk@@{"entities": ["laptop", "computer desk"], "attributes": [["laptop", "small"], ["laptop", "wooden"], ["computer desk", "silver"]], "relations": [["laptop", "sitting on top of", "computer desk"]]}
+Two plastic containers sitting on top of a wooden table@@{"entities": ["containers", "table"], "attributes": [["containers", "plastic"], ["table", "wooden"]], "relations": [["containers", "sitting on top of", "table"]]}
+Two wooden containers sitting on top of a plastic table@@{"entities": ["containers", "table"], "attributes": [["containers", "wooden"], ["table", "plastic"]], "relations": [["containers", "sitting on top of", "table"]]}
+A laptop resting on a wooden table near a silver kettle@@{"entities": ["laptop", "wooden table", "silver kettle"], "attributes": [], "relations": [["laptop", "resting on", "wooden table"], ["laptop", "near", "silver kettle"]]}
+A laptop resting on a silver table near a wooden kettle@@{"entities": ["laptop", "table", "kettle"], "attributes": [["table", "silver"], ["kettle", "wooden"]], "relations": [["laptop", "resting on", "table"], ["table", "near", "kettle"]]}
+A table topped with wooden combs and plastic display cases@@{"entities": ["table", "combs", "display cases"], "attributes": [["combs", "wooden"], ["display cases", "plastic"]], "relations": [["table", "topped with", "combs"], ["table", "topped with", "display cases"]]}
+A table topped with plastic combs and wooden display cases@@{"entities": ["table", "plastic combs", "wooden display cases"], "attributes": [], "relations": [["table", "topped with", "plastic combs"], ["table", "topped with", "wooden display cases"]]}
+A shiny silver metal microwave near wooden cabinets@@{"entities": ["microwave", "cabinets"], "attributes": [["microwave", "metal"], ["microwave", "shiny"], ["microwave", "silver"], ["cabinets", "wooden"]], "relations": [["microwave", "near", "cabinets"]]}
+A shiny wooden metal microwave near silver cabinets@@{"entities": ["microwave", "cabinets"], "attributes": [["microwave", "metal"], ["microwave", "shiny"], ["microwave", "wooden"], ["cabinets", "silver"]], "relations": [["microwave", "near", "cabinets"]]}
+A wooden table with a black and silver blender@@{"entities": ["table", "blender"], "attributes": [["table", "wooden"], ["blender", "black"], ["blender", "silver"]], "relations": [["table", "with", "blender"]]}
+A silver table with a black and wooden blender@@{"entities": ["table", "blender"], "attributes": [["table", "silver"], ["blender", "wooden"], ["blender", "black"]], "relations": [["table", "with", "blender"]]}
+several silver hole punchers and other office supplies on a wooden table@@{"entities": ["hole punchers", "office supplies", "table"], "attributes": [["hole punchers", "silver"], ["table", "wooden"]], "relations": [["office supplies", "on", "table"]]}
+several wooden hole punchers and other office supplies on a silver table@@{"entities": ["hole punchers", "office supplies", "table"], "attributes": [["hole punchers", "wooden"], ["table", "silver"]], "relations": [["office supplies", "on", "table"]]}
+a small silver laptop on a wooden table@@{"entities": ["laptop", "table"], "attributes": [["laptop", "small"], ["laptop", "silver"], ["table", "wooden"]], "relations": [["laptop", "on", "table"]]}
+a small wooden laptop on a silver table@@{"entities": ["laptop", "table"], "attributes": [["laptop", "small"], ["laptop", "wooden"], ["table", "silver"]], "relations": [["laptop", "on", "table"]]}
+The wooden kitchen has a small child's plastic table in it@@{"entities": ["kitchen", "table"], "attributes": [["kitchen", "wooden"], ["table", "childs"], ["table", "small"], ["table", "plastic"]], "relations": [["kitchen", "has", "table"]]}
+The plastic kitchen has a small child 's wooden table in it@@{"entities": ["plastic kitchen", "small child", "wooden table"], "attributes": [], "relations": [["plastic kitchen", "has", "wooden table"]]}
+A square wooden clock that reads 10:33 with a silver arch in front of it@@{"entities": ["clock", "1033", "arch"], "attributes": [["clock", "wooden"], ["clock", "square"], ["arch", "silver"]], "relations": [["clock", "reads", "1033"], ["arch", "in front of", "clock"]]}
+A square silver clock that reads 10:33 with a wooden arch in front of it@@{"entities": ["clock", "1033", "arch"], "attributes": [["clock", "square"], ["clock", "silver"], ["arch", "wooden"]], "relations": [["clock", "reads", "1033"], ["arch", "in front of", "clock"]]}
+A living room with a stone fireplace, Mission style furniture, and wooden blinds@@{"entities": ["living room", "stone fireplace", "mission style furniture", "wooden blinds"], "attributes": [], "relations": [["living room", "with", "stone fireplace"], ["living room", "with", "mission style furniture"], ["living room", "with", "wooden blinds"]]}
+A living room with a wooden fireplace , Mission style furniture , and stone blinds@@{"entities": ["living room", "wooden fireplace", "mission style furniture", "stone blinds"], "attributes": [], "relations": [["living room", "with", "wooden fireplace"], ["living room", "with", "mission style furniture"], ["living room", "with", "stone blinds"]]}
+A wooden surface holds an opened beverage can, an open book, a meal and plastic fork on a glass plate, used and unused napkins, and most importantly a laptop, not on@@{"entities": ["surface", "beverage can", "book", "meal", "plastic fork", "glass plate", "napkins", "laptop"], "attributes": [["surface", "wooden"], ["beverage can", "opened"], ["book", "open"], ["napkins", "used"], ["napkins", "unused"]], "relations": [["surface", "holds", "beverage can"], ["surface", "holds", "book"], ["surface", "holds", "meal"], ["surface", "holds", "plastic fork"], ["plastic fork", "on", "glass plate"], ["surface", "holds", "napkins"], ["surface", "holds", "laptop"]]}
+A plastic surface holds an opened beverage can , an open book , a meal and wooden fork on a glass plate , used and unused napkins , and most importantly a laptop , not on@@{"entities": ["plastic surface", "beverage can", "book", "meal", "fork", "glass plate", "napkins", "laptop"], "attributes": [["beverage can", "opened"], ["book", "open"], ["fork", "wooden"], ["napkins", "used"], ["napkins", "unused"]], "relations": [["plastic surface", "holds", "beverage can"], ["plastic surface", "holds", "book"], ["plastic surface", "holds", "meal"], ["plastic surface", "holds", "fork"], ["fork", "on", "glass plate"], ["plastic surface", "holds", "napkins"], ["plastic surface", "holds", "laptop"]]}
+a brown wooden table and a silver cellphone and another device@@{"entities": ["table", "cellphone", "device"], "attributes": [["table", "wooden"], ["table", "brown"], ["cellphone", "silver"]], "relations": []}
+a brown silver table and a wooden cellphone and another device@@{"entities": ["table", "cellphone", "device"], "attributes": [["table", "silver"], ["table", "brown"], ["cellphone", "wooden"]], "relations": []}
+A wooden stone with a clock on top@@{"entities": ["stone", "clock"], "attributes": [["stone", "wooden"]], "relations": [["clock", "on top", "stone"]]}
+A stone wooden with a clock on top@@{"entities": ["stone wooden", "clock", "top"], "attributes": [], "relations": [["clock", "on", "top"]]}
+A shiny, silver vase holds a colorful bouquet of flowers beside an elegant looking chair, in front of a floral print design, behind a gold colored rail@@{"entities": ["vase", "bouquet", "flowers", "chair", "floral print design", "rail"], "attributes": [["vase", "shiny"], ["vase", "silver"], ["bouquet", "colorful"], ["chair", "elegant looking"], ["rail", "gold colored"]], "relations": [["vase", "holds", "bouquet"], ["bouquet", "of", "flowers"], ["vase", "beside", "chair"], ["vase", "in front of", "floral print design"], ["vase", "behind", "rail"]]}
+A shiny , gold vase holds a colorful bouquet of flowers beside an elegant looking chair , in front of a floral print design , behind a silver colored rail@@{"entities": ["vase", "bouquet", "flowers", "chair", "floral print design", "rail"], "attributes": [["vase", "gold"], ["vase", "shiny"], ["bouquet", "colorful"], ["chair", "elegant looking"], ["rail", "silver colored"]], "relations": [["vase", "holds", "bouquet"], ["bouquet", "of", "flowers"], ["vase", "beside", "chair"], ["vase", "in front of", "floral print design"], ["vase", "behind", "rail"]]}
+A small white cat on a large bowl@@{"entities": ["cat", "bowl"], "attributes": [["cat", "small"], ["cat", "white"], ["bowl", "large"]], "relations": [["cat", "on", "bowl"]]}
+A large white cat on a small bowl@@{"entities": ["cat", "bowl"], "attributes": [["cat", "white"], ["cat", "large"], ["bowl", "small"]], "relations": [["cat", "on", "bowl"]]}
+A small bathroom with a large mirror and single sink vanity@@{"entities": ["bathroom", "mirror", "sink vanity"], "attributes": [["bathroom", "small"], ["mirror", "large"], ["sink vanity", "single"]], "relations": [["bathroom", "with", "mirror"], ["bathroom", "with", "sink vanity"]]}
+A large bathroom with a small mirror and single sink vanity@@{"entities": ["bathroom", "mirror", "single sink vanity"], "attributes": [["bathroom", "large"], ["mirror", "small"]], "relations": [["bathroom", "with", "mirror"], ["bathroom", "with", "single sink vanity"]]}
+A small vehicle taxis a large jet down a runway@@{"entities": ["vehicle", "jet", "runway"], "attributes": [["vehicle", "small"], ["jet", "large"]], "relations": [["vehicle", "taxis", "jet"], ["jet", "down", "runway"]]}
+A large vehicle taxis a small jet down a runway@@{"entities": ["vehicle", "jet", "runway"], "attributes": [["vehicle", "large"], ["jet", "small"]], "relations": [["vehicle", "taxis", "jet"], ["jet", "down", "runway"]]}
+A large plant is in the corner of a small bathroom@@{"entities": ["plant", "corner", "bathroom"], "attributes": [["plant", "large"], ["bathroom", "small"]], "relations": [["plant", "is in", "corner"], ["corner", "of", "bathroom"]]}
+A small plant is in the corner of a large bathroom@@{"entities": ["plant", "corner", "bathroom"], "attributes": [["plant", "small"], ["bathroom", "large"]], "relations": [["plant", "in", "corner"], ["corner", "of", "bathroom"]]}
+A small bathroom, toilet and sink with a large window@@{"entities": ["bathroom", "toilet", "sink", "window"], "attributes": [["bathroom", "small"], ["window", "large"]], "relations": []}
+A large bathroom , toilet and sink with a small window@@{"entities": ["bathroom", "toilet", "sink", "window"], "attributes": [["bathroom", "large"], ["window", "small"]], "relations": []}
+A small yellow and black car driving around the bend of a road between large hill formations@@{"entities": ["car", "bend", "road", "hill formations"], "attributes": [["car", "small"], ["car", "yellow and black"], ["hill formations", "large"]], "relations": [["car", "driving around", "bend"], ["bend", "of", "road"], ["road", "between", "hill formations"]]}
+A large yellow and black car driving around the bend of a road between small hill formations@@{"entities": ["car", "bend", "road", "hill formations"], "attributes": [["car", "yellow and black"], ["car", "large"], ["hill formations", "small"]], "relations": [["car", "driving around", "bend"], ["bend", "of", "road"], ["road", "between", "hill formations"]]}
+A large brick building with a small clock on it@@{"entities": ["building", "clock"], "attributes": [["building", "brick"], ["building", "large"], ["clock", "small"]], "relations": [["clock", "on", "building"]]}
+A small brick building with a large clock on it@@{"entities": ["building", "clock"], "attributes": [["building", "small"], ["building", "brick"], ["clock", "large"]], "relations": [["clock", "on", "building"]]}
+A woman cooking with a large white bot and a cooking board with meat in it in a small kitchen@@{"entities": ["woman", "bot", "cooking board", "meat", "kitchen"], "attributes": [["bot", "white"], ["bot", "large"], ["kitchen", "small"]], "relations": [["woman", "cooking with", "bot"], ["cooking board", "with", "meat"], ["cooking board", "in", "kitchen"]]}
+A woman cooking with a small white bot and a cooking board with meat in it in a large kitchen@@{"entities": ["woman", "bot", "cooking board", "meat", "kitchen"], "attributes": [["bot", "small"], ["bot", "white"], ["kitchen", "large"]], "relations": [["woman", "cooking with", "bot"], ["cooking board", "with", "meat"], ["cooking board", "in", "kitchen"]]}
+A tiny white toilet in a small bathroom@@{"entities": ["toilet", "bathroom"], "attributes": [["toilet", "tiny"], ["toilet", "white"], ["bathroom", "small"]], "relations": [["toilet", "in", "bathroom"]]}
+A small white toilet in a tiny bathroom@@{"entities": ["toilet", "bathroom"], "attributes": [["toilet", "small"], ["toilet", "white"], ["bathroom", "tiny"]], "relations": [["toilet", "in", "bathroom"]]}
+The small car is towing a large airplane@@{"entities": ["car", "airplane"], "attributes": [["car", "small"], ["airplane", "large"]], "relations": [["car", "towing", "airplane"]]}
+The large car is towing a small airplane@@{"entities": ["car", "airplane"], "attributes": [["car", "large"], ["airplane", "small"]], "relations": [["car", "towing", "airplane"]]}
+a small garage space with a bunch of large jars in it@@{"entities": ["garage space", "bunch", "jars"], "attributes": [["garage space", "small"], ["jars", "large"]], "relations": [["bunch", "of", "jars"], ["garage space", "with", "bunch"]]}
+a large garage space with a bunch of small jars in it@@{"entities": ["garage space", "jars"], "attributes": [["garage space", "large"], ["jars", "small"], ["jars", "bunch of"]], "relations": [["jars", "in", "garage space"]]}
+A small kitten sits in a large bowl@@{"entities": ["kitten", "bowl"], "attributes": [["kitten", "small"], ["bowl", "large"]], "relations": [["kitten", "sits in", "bowl"]]}
+A large kitten sits in a small bowl@@{"entities": ["kitten", "bowl"], "attributes": [["kitten", "large"], ["bowl", "small"]], "relations": [["kitten", "sits in", "bowl"]]}
+A living room area features a large window, a white couch, a small table and a large area rug@@{"entities": ["living room area", "large window", "white couch", "small table", "large area rug"], "attributes": [], "relations": [["living room area", "features", "large window"], ["living room area", "features", "white couch"], ["living room area", "features", "small table"], ["living room area", "features", "large area rug"]]}
+A living room area features a small window , a white couch , a large table and a large area rug@@{"entities": ["living room area", "small window", "white couch", "large table", "large area rug"], "attributes": [], "relations": [["living room area", "features", "small window"], ["living room area", "features", "white couch"], ["living room area", "features", "large table"], ["living room area", "features", "large area rug"]]}
+A small kitten is lying on the seat of a large motorcycle@@{"entities": ["kitten", "seat", "motorcycle"], "attributes": [["kitten", "small"], ["motorcycle", "large"]], "relations": [["kitten", "lying on", "seat"], ["seat", "of", "motorcycle"]]}
+A large kitten is lying on the seat of a small motorcycle@@{"entities": ["kitten", "seat", "motorcycle"], "attributes": [["kitten", "large"], ["motorcycle", "small"]], "relations": [["kitten", "lying on", "seat"], ["seat", "of", "motorcycle"]]}
+A bathroom with a large tub layered in small green tile@@{"entities": ["bathroom", "tub", "tile"], "attributes": [["tub", "large"], ["tile", "small"], ["tile", "green"]], "relations": [["bathroom", "with", "tub"], ["tub", "layered in", "tile"]]}
+A bathroom with a small tub layered in large green tile@@{"entities": ["bathroom", "tub", "tile"], "attributes": [["tub", "small"], ["tile", "green"], ["tile", "large"]], "relations": [["bathroom", "with", "tub"], ["tub", "layered in", "tile"]]}
+a helicopter and small plane fly through the air over the ocean and a large boat@@{"entities": ["helicopter", "plane", "air", "ocean", "boat"], "attributes": [["plane", "small"], ["boat", "large"]], "relations": [["helicopter", "fly through", "air"], ["plane", "fly through", "air"], ["air", "over", "ocean"], ["boat", "over", "ocean"]]}
+a helicopter and large plane fly through the air over the ocean and a small boat@@{"entities": ["helicopter", "plane", "air", "ocean", "boat"], "attributes": [["plane", "large"], ["boat", "small"]], "relations": [["helicopter", "fly through", "air"], ["plane", "fly through", "air"], ["air", "over", "ocean"]]}
+A large mirror behind a sink and toilet in a small bathroom@@{"entities": ["mirror", "sink", "toilet", "bathroom"], "attributes": [["mirror", "large"], ["bathroom", "small"]], "relations": [["mirror", "behind", "sink"], ["mirror", "behind", "toilet"], ["sink", "in", "bathroom"], ["toilet", "in", "bathroom"]]}
+A small mirror behind a sink and toilet in a large bathroom@@{"entities": ["mirror", "sink", "toilet", "bathroom"], "attributes": [["mirror", "small"], ["bathroom", "large"]], "relations": [["mirror", "behind", "sink"], ["mirror", "behind", "toilet"], ["sink", "in", "bathroom"], ["toilet", "in", "bathroom"]]}
+A large screen TV in a small bedroom@@{"entities": ["tv", "bedroom"], "attributes": [["tv", "large screen"], ["bedroom", "small"]], "relations": [["tv", "in", "bedroom"]]}
+A small screen TV in a large bedroom@@{"entities": ["tv", "bedroom"], "attributes": [["tv", "small screen"], ["bedroom", "large"]], "relations": [["tv", "in", "bedroom"]]}
+The small kitchen has large cabinets and two stoves@@{"entities": ["kitchen", "cabinets", "stoves"], "attributes": [["kitchen", "small"], ["cabinets", "large"], ["stoves", "two"]], "relations": [["kitchen", "has", "cabinets"], ["kitchen", "has", "stoves"]]}
+The large kitchen has small cabinets and two stoves@@{"entities": ["kitchen", "cabinets", "stoves"], "attributes": [["kitchen", "large"], ["cabinets", "small"], ["stoves", "two"]], "relations": [["kitchen", "has", "cabinets"], ["kitchen", "has", "stoves"]]}
+A large tall building with a small bird flying over the top@@{"entities": ["building", "bird", "top"], "attributes": [["building", "tall"], ["building", "large"], ["bird", "small"]], "relations": [["bird", "flying over", "top"]]}
+A small tall building with a large bird flying over the top@@{"entities": ["building", "bird", "top"], "attributes": [["building", "tall"], ["building", "small"], ["bird", "large"]], "relations": [["bird", "flying over", "top"]]}
+Two large giraffes and a small giraffe standing in tall grass@@{"entities": ["giraffes", "giraffe", "grass"], "attributes": [["giraffes", "large"], ["giraffe", "small"], ["grass", "tall"]], "relations": [["giraffes", "standing in", "grass"], ["giraffe", "standing in", "grass"]]}
+Two small giraffes and a large giraffe standing in tall grassfour planes fly close through the sky with three trailing smoke behind them@@{"entities": ["giraffes", "giraffe", "planes", "sky", "smoke"], "attributes": [["giraffes", "small"], ["giraffe", "large"]], "relations": [["planes", "with", "smoke"]]}
+three planes fly close through the sky with four trailing smoke behind them@@{"entities": ["planes", "sky", "smoke"], "attributes": [], "relations": [["planes", "fly", "sky"]]}
+three adults and one child skiing on a snow covered ski slope@@{"entities": ["adults", "child", "ski slope"], "attributes": [["ski slope", "snow covered"]], "relations": [["adults", "skiing on", "ski slope"], ["child", "skiing on", "ski slope"]]}
+one adults and three child skiing on a snow covered ski slope@@{"entities": ["adults", "child", "ski slope"], "attributes": [["ski slope", "snow covered"]], "relations": [["adults", "skiing on", "ski slope"], ["child", "skiing on", "ski slope"]]}
+Three giraffes two are bending over and  you can not see their heads and one in the center is tall and lanky@@{"entities": ["giraffes", "two", "one"], "attributes": [["giraffes", "three"], ["two", "bending over"], ["two", "you can not see their heads"], ["one", "tall"], ["one", "lanky"], ["one", "in the center"]], "relations": []}
+Three giraffes one are bending over and you can not see their heads and two in the center is tall and lanky@@{"entities": ["giraffes"], "attributes": [["giraffes", "one are bending over and you can not see their heads"], ["giraffes", "two in the center is tall and lanky"], ["giraffes", "three"]], "relations": []}
+two green and one grey parrot perched on a branch@@{"entities": ["parrot", "parrot", "branch"], "attributes": [["parrot", "green"], ["parrot", "grey"]], "relations": [["parrot", "perched on", "branch"]]}
+one green and two grey parrot perched on a branch@@{"entities": ["parrot", "parrot", "branch"], "attributes": [["parrot", "green"], ["parrot", "grey"]], "relations": [["parrot", "perched on", "branch"]]}
+A five eleven sign and a pole with two signs@@{"entities": ["sign", "pole", "signs"], "attributes": [["sign", "five eleven"], ["signs", "two"]], "relations": [["pole", "with", "signs"]]}
+A two eleven sign and a pole with five signs@@{"entities": ["sign", "pole", "signs"], "attributes": [["sign", "two eleven"], ["signs", "five"]], "relations": [["pole", "with", "signs"]]}

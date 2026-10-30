@@ -1,0 +1,37 @@
+{"id": "000149", "caption": "Kitchen scene, grey counter top on one side, whitish on the other and black sink with long neck faucet.", "error": "第 149 条重试 3 次仍未得到可校验的结果：e4 的 mention 'the other' 不包含 label 'side'"}
+{"id": "000151", "caption": "Two toilet stall, one blue and the other orange.", "error": "第 151 条重试 3 次仍未得到可校验的结果：e2 的 mention 'one blue' 不包含 label 'toilet stall'"}
+{"id": "000311", "caption": "The bathroom has white and green tiles on the wall, and green tiles on the floor, along with a white porcelain toilette, and a white garden style tub with a shower hook up.", "error": "第 311 条重试 3 次仍未得到可校验的结果：e1/e2/... 的实体顺序与原文出现顺序不一致"}
+{"id": "000355", "caption": "a tan bathroom a red shower curtain a mirror tub shower and sink", "error": "第 355 条重试 3 次仍未得到可校验的结果：e1/e2/... 的实体顺序与原文出现顺序不一致"}
+{"id": "000356", "caption": "a red bathroom a tan shower curtain a mirror tub shower and sink", "error": "第 356 条重试 3 次仍未得到可校验的结果：e1/e2/... 的实体顺序与原文出现顺序不一致"}
+{"id": "000404", "caption": "An blue and a orange motorcycle with people on them next to each other .", "error": "第 404 条重试 3 次仍未得到可校验的结果：重复实体 e1/e2 的原文锚点重叠，无法唯一区分"}
+{"id": "000896", "caption": "Two dogs and one that is black is in a cage and someone is putting their finger in the cage while the white dog is sitting out on a wooden floor .", "error": "第 896 条重试 3 次仍未得到可校验的结果：e2 的 mention 'one that is black' 不包含 label 'dog'"}
+{"id": "001087", "caption": "The hanging traffic light shows green on one side and red on the other.", "error": "第 1087 条重试 3 次仍未得到可校验的结果：e3 的 mention 'the other' 不包含 label 'side'"}
+{"id": "001088", "caption": "The hanging traffic light shows red on one side and green on the other .", "error": "第 1088 条重试 3 次仍未得到可校验的结果：e3 的 mention 'the other' 不包含 label 'side'"}
+{"id": "001341", "caption": "Sheep, one in mixed brown and white fleece and long horns, the other in beige fleece grazing on grass.", "error": "第 1341 条重试 3 次仍未得到可校验的结果：e2 的 mention 'one in mixed brown and white fleece and long horns' 不包含 label 'Sheep'"}
+{"id": "001541", "caption": "A trolley with one blue and one green car moving down a street.", "error": "第 1541 条重试 3 次仍未得到可校验的结果：e2 的 mention 'one blue' 不包含 label 'car'"}
+{"id": "001542", "caption": "A trolley with one green and one blue car moving down a street .", "error": "第 1542 条重试 3 次仍未得到可校验的结果：e2 的 mention 'one green' 不包含 label 'car'"}
+{"id": "001892", "caption": "there is a yellow and a red bus parked under a tree", "error": "第 1892 条重试 3 次仍未得到可校验的结果：e1 的 mention 'a yellow' 不包含 label 'bus'"}
+{"id": "002229", "caption": "Mannin a brown outfit standing in front of a red and white fire hydrant.", "error": "第 2229 条重试 3 次仍未得到可校验的结果：e1 的 label 'Mann' 不在原文中"}
+{"id": "002493", "caption": "Three cows two black and one brown grazing in a green field.", "error": "第 2493 条重试 3 次仍未得到可校验的结果：e2 的 mention 'two black' 不包含 label 'cows'"}
+{"id": "002494", "caption": "Three cows two black and one green grazing in a brown field .", "error": "第 2494 条重试 3 次仍未得到可校验的结果：e2 的 mention 'two black' 不包含 label 'cows'"}
+{"id": "002864", "caption": "A gray and a brown elephant are in a circus ring and the brown elephant is walking behind the gray elephant as well as two people training them are standing nearby .", "error": "第 2864 条重试 3 次仍未得到可校验的结果：e1 的 mention 'A gray' 不包含 label 'elephant'"}
+{"id": "002909", "caption": "People huddle under several umbrellas on a sidewalk area and a white dog follows people with a pink umbrella.", "error": "第 2909 条重试 3 次仍未得到可校验的结果：e1/e2/... 的实体顺序与原文出现顺序不一致"}
+{"id": "002910", "caption": "People huddle under several umbrellas on a sidewalk area and a pink dog follows people with a white umbrella .", "error": "第 2910 条重试 3 次仍未得到可校验的结果：e1/e2/... 的实体顺序与原文出现顺序不一致"}
+{"id": "004125", "caption": "A man in a blue shirt and white pants wears a baseball hat and stretches his arm back while holding a baseball.", "error": "第 4125 条重试 3 次仍未得到可校验的结果：e1/e2/... 的实体顺序与原文出现顺序不一致"}
+{"id": "004126", "caption": "A man in a white shirt and blue pants wears a baseball hat and stretches his arm back while holding a baseball .", "error": "第 4126 条重试 3 次仍未得到可校验的结果：e1/e2/... 的实体顺序与原文出现顺序不一致"}
+{"id": "004209", "caption": "a snow skier in a red jacket snow and trees", "error": "第 4209 条重试 3 次仍未得到可校验的结果：e1/e2/... 的实体顺序与原文出现顺序不一致"}
+{"id": "004293", "caption": "Two kids, on in red and one in blue, stand on snow skis in the snow holding their ski poles.", "error": "第 4293 条重试 3 次仍未得到可校验的结果：e2 的 mention 'one in red' 不是原文连续片段"}
+{"id": "004294", "caption": "Two kids , on in blue and one in red , stand on snow skis in the snow holding their ski poles .", "error": "第 4294 条重试 3 次仍未得到可校验的结果：e2 的 mention 'one in blue' 不是原文连续片段"}
+{"id": "004489", "caption": "a male snow skier in a black jacket snow and trees", "error": "第 4489 条重试 3 次仍未得到可校验的结果：e1/e2/... 的实体顺序与原文出现顺序不一致"}
+{"id": "004655", "caption": "a snow skier in a red jacket carrying skis and snow", "error": "第 4655 条重试 3 次仍未得到可校验的结果：e1/e2/... 的实体顺序与原文出现顺序不一致"}
+{"id": "004656", "caption": "a red skier in a snow jacket carrying skis and snow", "error": "第 4656 条重试 3 次仍未得到可校验的结果：e1/e2/... 的实体顺序与原文出现顺序不一致"}
+{"id": "004689", "caption": "some snow boarders in blue jackets snow and trees", "error": "第 4689 条重试 3 次仍未得到可校验的结果：e1/e2/... 的实体顺序与原文出现顺序不一致"}
+{"id": "004925", "caption": "A man in black holds up a camera as a man on top of a gray snowboard hovers in the air.", "error": "第 4925 条重试 3 次仍未得到可校验的结果：e1/e2/... 的实体顺序与原文出现顺序不一致"}
+{"id": "004926", "caption": "A man in gray holds up a camera as a man on top of a black snowboard hovers in the air .", "error": "第 4926 条重试 3 次仍未得到可校验的结果：e1/e2/... 的实体顺序与原文出现顺序不一致"}
+{"id": "005123", "caption": "three different donuts one is pink one is brown and one has white sprinkles", "error": "第 5123 条重试 3 次仍未得到可校验的结果：e2 的 label 'donut' 不在原文中"}
+{"id": "005124", "caption": "three different donuts one is pink one is white and one has brown sprinkles", "error": "第 5124 条重试 3 次仍未得到可校验的结果：e2 的 label 'donut' 不在原文中"}
+{"id": "005512", "caption": "A girl wearing a white tennis outfit and blue shoes holds up a tennis racket on a tennis court while a woman wearing white is seen on the side .", "error": "第 5512 条重试 3 次仍未得到可校验的结果：e1/e2/... 的实体顺序与原文出现顺序不一致"}
+{"id": "005695", "caption": "A baseball player wearing gray pants and a black jacket holds out a bat near a baseball that's in the air.", "error": "第 5695 条重试 3 次仍未得到可校验的结果：e1/e2/... 的实体顺序与原文出现顺序不一致"}
+{"id": "005696", "caption": "A baseball player wearing black pants and a gray jacket holds out a bat near a baseball that 's in the air .", "error": "第 5696 条重试 3 次仍未得到可校验的结果：e1/e2/... 的实体顺序与原文出现顺序不一致"}
+{"id": "005747", "caption": "A narrow lane has buildings on either side and one of the buildings is yellow and another is yellow and white.", "error": "第 5747 条重试 3 次仍未得到可校验的结果：e1/e2/... 的实体顺序与原文出现顺序不一致"}
+{"id": "005748", "caption": "A narrow lane has buildings on either side and one of the buildings is white and another is yellow and yellow .", "error": "第 5748 条重试 3 次仍未得到可校验的结果：e1/e2/... 的实体顺序与原文出现顺序不一致"}
